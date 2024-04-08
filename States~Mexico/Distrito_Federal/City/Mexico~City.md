@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-99.15] 
-[geo-lat::19.4] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-99.15] 
+[has_place_latitude::19.4] 
 [name::Mexico City] 
 State ::  
 Country :: [[../../../../Mexico]]  
