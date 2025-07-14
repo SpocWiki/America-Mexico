@@ -41,15 +41,17 @@ markerFolder: ./Aguascalientes/
 
 ## Confidential Links & Embeds: 
 
-### [Aguascalientes.public](/_public/\Earth\Continent\America~Central\Mexico\States~MexicoAguascalientes.public.md) 
+### [Aguascalientes](/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Aguascalientes.md) 
 
-### [Aguascalientes.internal](/_internal/\Earth\Continent\America~Central\Mexico\States~MexicoAguascalientes.internal.md) 
+### [Aguascalientes.public](/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Aguascalientes.public.md) 
 
-### [Aguascalientes.protect](/_protect/\Earth\Continent\America~Central\Mexico\States~MexicoAguascalientes.protect.md) 
+### [Aguascalientes.internal](/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Aguascalientes.internal.md) 
 
-### [Aguascalientes.private](/_private/\Earth\Continent\America~Central\Mexico\States~MexicoAguascalientes.private.md) 
+### [Aguascalientes.protect](/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Aguascalientes.protect.md) 
 
-### [Aguascalientes.personal](/_personal/\Earth\Continent\America~Central\Mexico\States~MexicoAguascalientes.personal.md) 
+### [Aguascalientes.private](/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Aguascalientes.private.md) 
 
-### [Aguascalientes.secret](/_secret/\Earth\Continent\America~Central\Mexico\States~MexicoAguascalientes.secret.md)
+### [Aguascalientes.personal](/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Aguascalientes.personal.md) 
+
+### [Aguascalientes.secret](/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Aguascalientes.secret.md)
 

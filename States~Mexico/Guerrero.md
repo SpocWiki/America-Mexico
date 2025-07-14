@@ -41,15 +41,17 @@ markerFolder: ./Guerrero/
 
 ## Confidential Links & Embeds: 
 
-### [Guerrero.public](/_public/\Earth\Continent\America~Central\Mexico\States~MexicoGuerrero.public.md) 
+### [Guerrero](/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Guerrero.md) 
 
-### [Guerrero.internal](/_internal/\Earth\Continent\America~Central\Mexico\States~MexicoGuerrero.internal.md) 
+### [Guerrero.public](/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Guerrero.public.md) 
 
-### [Guerrero.protect](/_protect/\Earth\Continent\America~Central\Mexico\States~MexicoGuerrero.protect.md) 
+### [Guerrero.internal](/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Guerrero.internal.md) 
 
-### [Guerrero.private](/_private/\Earth\Continent\America~Central\Mexico\States~MexicoGuerrero.private.md) 
+### [Guerrero.protect](/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Guerrero.protect.md) 
 
-### [Guerrero.personal](/_personal/\Earth\Continent\America~Central\Mexico\States~MexicoGuerrero.personal.md) 
+### [Guerrero.private](/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Guerrero.private.md) 
 
-### [Guerrero.secret](/_secret/\Earth\Continent\America~Central\Mexico\States~MexicoGuerrero.secret.md)
+### [Guerrero.personal](/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Guerrero.personal.md) 
+
+### [Guerrero.secret](/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Guerrero.secret.md)
 

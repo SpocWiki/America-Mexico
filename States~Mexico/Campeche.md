@@ -41,15 +41,17 @@ markerFolder: ./Campeche/
 
 ## Confidential Links & Embeds: 
 
-### [Campeche.public](/_public/\Earth\Continent\America~Central\Mexico\States~MexicoCampeche.public.md) 
+### [Campeche](/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Campeche.md) 
 
-### [Campeche.internal](/_internal/\Earth\Continent\America~Central\Mexico\States~MexicoCampeche.internal.md) 
+### [Campeche.public](/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Campeche.public.md) 
 
-### [Campeche.protect](/_protect/\Earth\Continent\America~Central\Mexico\States~MexicoCampeche.protect.md) 
+### [Campeche.internal](/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Campeche.internal.md) 
 
-### [Campeche.private](/_private/\Earth\Continent\America~Central\Mexico\States~MexicoCampeche.private.md) 
+### [Campeche.protect](/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Campeche.protect.md) 
 
-### [Campeche.personal](/_personal/\Earth\Continent\America~Central\Mexico\States~MexicoCampeche.personal.md) 
+### [Campeche.private](/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Campeche.private.md) 
 
-### [Campeche.secret](/_secret/\Earth\Continent\America~Central\Mexico\States~MexicoCampeche.secret.md)
+### [Campeche.personal](/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Campeche.personal.md) 
+
+### [Campeche.secret](/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Campeche.secret.md)
 

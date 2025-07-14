@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\America~Central\MexicoLicense.public.md) 
+### [License](/_Standards/Earth/Continent/America~Central/Mexico/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\America~Central\MexicoLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/America~Central/Mexico/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\America~Central\MexicoLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/America~Central/Mexico/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\America~Central\MexicoLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/America~Central/Mexico/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\America~Central\MexicoLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/America~Central/Mexico/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\America~Central\MexicoLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/America~Central/Mexico/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/America~Central/Mexico/License.secret.md)
 

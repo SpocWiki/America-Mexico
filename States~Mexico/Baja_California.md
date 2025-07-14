@@ -41,15 +41,17 @@ markerFolder: ./Baja_California/
 
 ## Confidential Links & Embeds: 
 
-### [Baja_California.public](/_public/\Earth\Continent\America~Central\Mexico\States~MexicoBaja_California.public.md) 
+### [Baja_California](/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Baja_California.md) 
 
-### [Baja_California.internal](/_internal/\Earth\Continent\America~Central\Mexico\States~MexicoBaja_California.internal.md) 
+### [Baja_California.public](/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Baja_California.public.md) 
 
-### [Baja_California.protect](/_protect/\Earth\Continent\America~Central\Mexico\States~MexicoBaja_California.protect.md) 
+### [Baja_California.internal](/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Baja_California.internal.md) 
 
-### [Baja_California.private](/_private/\Earth\Continent\America~Central\Mexico\States~MexicoBaja_California.private.md) 
+### [Baja_California.protect](/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Baja_California.protect.md) 
 
-### [Baja_California.personal](/_personal/\Earth\Continent\America~Central\Mexico\States~MexicoBaja_California.personal.md) 
+### [Baja_California.private](/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Baja_California.private.md) 
 
-### [Baja_California.secret](/_secret/\Earth\Continent\America~Central\Mexico\States~MexicoBaja_California.secret.md)
+### [Baja_California.personal](/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Baja_California.personal.md) 
+
+### [Baja_California.secret](/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Baja_California.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Tamaulipas/
 
 ## Confidential Links & Embeds: 
 
-### [Tamaulipas.public](/_public/\Earth\Continent\America~Central\Mexico\States~MexicoTamaulipas.public.md) 
+### [Tamaulipas](/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Tamaulipas.md) 
 
-### [Tamaulipas.internal](/_internal/\Earth\Continent\America~Central\Mexico\States~MexicoTamaulipas.internal.md) 
+### [Tamaulipas.public](/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Tamaulipas.public.md) 
 
-### [Tamaulipas.protect](/_protect/\Earth\Continent\America~Central\Mexico\States~MexicoTamaulipas.protect.md) 
+### [Tamaulipas.internal](/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Tamaulipas.internal.md) 
 
-### [Tamaulipas.private](/_private/\Earth\Continent\America~Central\Mexico\States~MexicoTamaulipas.private.md) 
+### [Tamaulipas.protect](/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Tamaulipas.protect.md) 
 
-### [Tamaulipas.personal](/_personal/\Earth\Continent\America~Central\Mexico\States~MexicoTamaulipas.personal.md) 
+### [Tamaulipas.private](/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Tamaulipas.private.md) 
 
-### [Tamaulipas.secret](/_secret/\Earth\Continent\America~Central\Mexico\States~MexicoTamaulipas.secret.md)
+### [Tamaulipas.personal](/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Tamaulipas.personal.md) 
+
+### [Tamaulipas.secret](/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Tamaulipas.secret.md)
 

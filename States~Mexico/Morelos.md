@@ -41,15 +41,17 @@ markerFolder: ./Morelos/
 
 ## Confidential Links & Embeds: 
 
-### [Morelos.public](/_public/\Earth\Continent\America~Central\Mexico\States~MexicoMorelos.public.md) 
+### [Morelos](/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Morelos.md) 
 
-### [Morelos.internal](/_internal/\Earth\Continent\America~Central\Mexico\States~MexicoMorelos.internal.md) 
+### [Morelos.public](/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Morelos.public.md) 
 
-### [Morelos.protect](/_protect/\Earth\Continent\America~Central\Mexico\States~MexicoMorelos.protect.md) 
+### [Morelos.internal](/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Morelos.internal.md) 
 
-### [Morelos.private](/_private/\Earth\Continent\America~Central\Mexico\States~MexicoMorelos.private.md) 
+### [Morelos.protect](/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Morelos.protect.md) 
 
-### [Morelos.personal](/_personal/\Earth\Continent\America~Central\Mexico\States~MexicoMorelos.personal.md) 
+### [Morelos.private](/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Morelos.private.md) 
 
-### [Morelos.secret](/_secret/\Earth\Continent\America~Central\Mexico\States~MexicoMorelos.secret.md)
+### [Morelos.personal](/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Morelos.personal.md) 
+
+### [Morelos.secret](/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Morelos.secret.md)
 

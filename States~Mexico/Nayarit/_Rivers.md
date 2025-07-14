@@ -41,15 +41,17 @@ markerFolder: ./_Rivers/
 
 ## Confidential Links & Embeds: 
 
-### [_Rivers.public](/_public/\Earth\Continent\America~Central\Mexico\States~Mexico\Nayarit_Rivers.public.md) 
+### [_Rivers](/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Nayarit/_Rivers.md) 
 
-### [_Rivers.internal](/_internal/\Earth\Continent\America~Central\Mexico\States~Mexico\Nayarit_Rivers.internal.md) 
+### [_Rivers.public](/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Nayarit/_Rivers.public.md) 
 
-### [_Rivers.protect](/_protect/\Earth\Continent\America~Central\Mexico\States~Mexico\Nayarit_Rivers.protect.md) 
+### [_Rivers.internal](/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Nayarit/_Rivers.internal.md) 
 
-### [_Rivers.private](/_private/\Earth\Continent\America~Central\Mexico\States~Mexico\Nayarit_Rivers.private.md) 
+### [_Rivers.protect](/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Nayarit/_Rivers.protect.md) 
 
-### [_Rivers.personal](/_personal/\Earth\Continent\America~Central\Mexico\States~Mexico\Nayarit_Rivers.personal.md) 
+### [_Rivers.private](/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Nayarit/_Rivers.private.md) 
 
-### [_Rivers.secret](/_secret/\Earth\Continent\America~Central\Mexico\States~Mexico\Nayarit_Rivers.secret.md)
+### [_Rivers.personal](/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Nayarit/_Rivers.personal.md) 
+
+### [_Rivers.secret](/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Nayarit/_Rivers.secret.md)
 

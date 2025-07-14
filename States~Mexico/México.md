@@ -41,15 +41,17 @@ markerFolder: ./México/
 
 ## Confidential Links & Embeds: 
 
-### [México.public](/_public/\Earth\Continent\America~Central\Mexico\States~MexicoMéxico.public.md) 
+### [México](/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/México.md) 
 
-### [México.internal](/_internal/\Earth\Continent\America~Central\Mexico\States~MexicoMéxico.internal.md) 
+### [México.public](/_public/Earth/Continent/America~Central/Mexico/States~Mexico/México.public.md) 
 
-### [México.protect](/_protect/\Earth\Continent\America~Central\Mexico\States~MexicoMéxico.protect.md) 
+### [México.internal](/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/México.internal.md) 
 
-### [México.private](/_private/\Earth\Continent\America~Central\Mexico\States~MexicoMéxico.private.md) 
+### [México.protect](/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/México.protect.md) 
 
-### [México.personal](/_personal/\Earth\Continent\America~Central\Mexico\States~MexicoMéxico.personal.md) 
+### [México.private](/_private/Earth/Continent/America~Central/Mexico/States~Mexico/México.private.md) 
 
-### [México.secret](/_secret/\Earth\Continent\America~Central\Mexico\States~MexicoMéxico.secret.md)
+### [México.personal](/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/México.personal.md) 
+
+### [México.secret](/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/México.secret.md)
 

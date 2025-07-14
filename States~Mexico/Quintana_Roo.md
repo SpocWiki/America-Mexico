@@ -41,15 +41,17 @@ markerFolder: ./Quintana_Roo/
 
 ## Confidential Links & Embeds: 
 
-### [Quintana_Roo.public](/_public/\Earth\Continent\America~Central\Mexico\States~MexicoQuintana_Roo.public.md) 
+### [Quintana_Roo](/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Quintana_Roo.md) 
 
-### [Quintana_Roo.internal](/_internal/\Earth\Continent\America~Central\Mexico\States~MexicoQuintana_Roo.internal.md) 
+### [Quintana_Roo.public](/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Quintana_Roo.public.md) 
 
-### [Quintana_Roo.protect](/_protect/\Earth\Continent\America~Central\Mexico\States~MexicoQuintana_Roo.protect.md) 
+### [Quintana_Roo.internal](/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Quintana_Roo.internal.md) 
 
-### [Quintana_Roo.private](/_private/\Earth\Continent\America~Central\Mexico\States~MexicoQuintana_Roo.private.md) 
+### [Quintana_Roo.protect](/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Quintana_Roo.protect.md) 
 
-### [Quintana_Roo.personal](/_personal/\Earth\Continent\America~Central\Mexico\States~MexicoQuintana_Roo.personal.md) 
+### [Quintana_Roo.private](/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Quintana_Roo.private.md) 
 
-### [Quintana_Roo.secret](/_secret/\Earth\Continent\America~Central\Mexico\States~MexicoQuintana_Roo.secret.md)
+### [Quintana_Roo.personal](/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Quintana_Roo.personal.md) 
+
+### [Quintana_Roo.secret](/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Quintana_Roo.secret.md)
 

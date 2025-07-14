@@ -41,15 +41,17 @@ markerFolder: ./_Lakes/
 
 ## Confidential Links & Embeds: 
 
-### [_Lakes.public](/_public/\Earth\Continent\America~Central\Mexico\States~Mexico\Sinaloa_Lakes.public.md) 
+### [_Lakes](/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Sinaloa/_Lakes.md) 
 
-### [_Lakes.internal](/_internal/\Earth\Continent\America~Central\Mexico\States~Mexico\Sinaloa_Lakes.internal.md) 
+### [_Lakes.public](/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Sinaloa/_Lakes.public.md) 
 
-### [_Lakes.protect](/_protect/\Earth\Continent\America~Central\Mexico\States~Mexico\Sinaloa_Lakes.protect.md) 
+### [_Lakes.internal](/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Sinaloa/_Lakes.internal.md) 
 
-### [_Lakes.private](/_private/\Earth\Continent\America~Central\Mexico\States~Mexico\Sinaloa_Lakes.private.md) 
+### [_Lakes.protect](/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Sinaloa/_Lakes.protect.md) 
 
-### [_Lakes.personal](/_personal/\Earth\Continent\America~Central\Mexico\States~Mexico\Sinaloa_Lakes.personal.md) 
+### [_Lakes.private](/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Sinaloa/_Lakes.private.md) 
 
-### [_Lakes.secret](/_secret/\Earth\Continent\America~Central\Mexico\States~Mexico\Sinaloa_Lakes.secret.md)
+### [_Lakes.personal](/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Sinaloa/_Lakes.personal.md) 
+
+### [_Lakes.secret](/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Sinaloa/_Lakes.secret.md)
 

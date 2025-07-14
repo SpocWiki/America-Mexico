@@ -41,15 +41,17 @@ markerFolder: ./Chihuahua/
 
 ## Confidential Links & Embeds: 
 
-### [Chihuahua.public](/_public/\Earth\Continent\America~Central\Mexico\States~MexicoChihuahua.public.md) 
+### [Chihuahua](/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Chihuahua.md) 
 
-### [Chihuahua.internal](/_internal/\Earth\Continent\America~Central\Mexico\States~MexicoChihuahua.internal.md) 
+### [Chihuahua.public](/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Chihuahua.public.md) 
 
-### [Chihuahua.protect](/_protect/\Earth\Continent\America~Central\Mexico\States~MexicoChihuahua.protect.md) 
+### [Chihuahua.internal](/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Chihuahua.internal.md) 
 
-### [Chihuahua.private](/_private/\Earth\Continent\America~Central\Mexico\States~MexicoChihuahua.private.md) 
+### [Chihuahua.protect](/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Chihuahua.protect.md) 
 
-### [Chihuahua.personal](/_personal/\Earth\Continent\America~Central\Mexico\States~MexicoChihuahua.personal.md) 
+### [Chihuahua.private](/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Chihuahua.private.md) 
 
-### [Chihuahua.secret](/_secret/\Earth\Continent\America~Central\Mexico\States~MexicoChihuahua.secret.md)
+### [Chihuahua.personal](/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Chihuahua.personal.md) 
+
+### [Chihuahua.secret](/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Chihuahua.secret.md)
 

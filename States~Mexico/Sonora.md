@@ -41,15 +41,17 @@ markerFolder: ./Sonora/
 
 ## Confidential Links & Embeds: 
 
-### [Sonora.public](/_public/\Earth\Continent\America~Central\Mexico\States~MexicoSonora.public.md) 
+### [Sonora](/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Sonora.md) 
 
-### [Sonora.internal](/_internal/\Earth\Continent\America~Central\Mexico\States~MexicoSonora.internal.md) 
+### [Sonora.public](/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Sonora.public.md) 
 
-### [Sonora.protect](/_protect/\Earth\Continent\America~Central\Mexico\States~MexicoSonora.protect.md) 
+### [Sonora.internal](/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Sonora.internal.md) 
 
-### [Sonora.private](/_private/\Earth\Continent\America~Central\Mexico\States~MexicoSonora.private.md) 
+### [Sonora.protect](/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Sonora.protect.md) 
 
-### [Sonora.personal](/_personal/\Earth\Continent\America~Central\Mexico\States~MexicoSonora.personal.md) 
+### [Sonora.private](/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Sonora.private.md) 
 
-### [Sonora.secret](/_secret/\Earth\Continent\America~Central\Mexico\States~MexicoSonora.secret.md)
+### [Sonora.personal](/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Sonora.personal.md) 
+
+### [Sonora.secret](/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Sonora.secret.md)
 

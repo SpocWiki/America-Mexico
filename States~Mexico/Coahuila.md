@@ -41,15 +41,17 @@ markerFolder: ./Coahuila/
 
 ## Confidential Links & Embeds: 
 
-### [Coahuila.public](/_public/\Earth\Continent\America~Central\Mexico\States~MexicoCoahuila.public.md) 
+### [Coahuila](/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Coahuila.md) 
 
-### [Coahuila.internal](/_internal/\Earth\Continent\America~Central\Mexico\States~MexicoCoahuila.internal.md) 
+### [Coahuila.public](/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Coahuila.public.md) 
 
-### [Coahuila.protect](/_protect/\Earth\Continent\America~Central\Mexico\States~MexicoCoahuila.protect.md) 
+### [Coahuila.internal](/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Coahuila.internal.md) 
 
-### [Coahuila.private](/_private/\Earth\Continent\America~Central\Mexico\States~MexicoCoahuila.private.md) 
+### [Coahuila.protect](/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Coahuila.protect.md) 
 
-### [Coahuila.personal](/_personal/\Earth\Continent\America~Central\Mexico\States~MexicoCoahuila.personal.md) 
+### [Coahuila.private](/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Coahuila.private.md) 
 
-### [Coahuila.secret](/_secret/\Earth\Continent\America~Central\Mexico\States~MexicoCoahuila.secret.md)
+### [Coahuila.personal](/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Coahuila.personal.md) 
+
+### [Coahuila.secret](/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Coahuila.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Hidalgo/
 
 ## Confidential Links & Embeds: 
 
-### [Hidalgo.public](/_public/\Earth\Continent\America~Central\Mexico\States~MexicoHidalgo.public.md) 
+### [Hidalgo](/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Hidalgo.md) 
 
-### [Hidalgo.internal](/_internal/\Earth\Continent\America~Central\Mexico\States~MexicoHidalgo.internal.md) 
+### [Hidalgo.public](/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Hidalgo.public.md) 
 
-### [Hidalgo.protect](/_protect/\Earth\Continent\America~Central\Mexico\States~MexicoHidalgo.protect.md) 
+### [Hidalgo.internal](/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Hidalgo.internal.md) 
 
-### [Hidalgo.private](/_private/\Earth\Continent\America~Central\Mexico\States~MexicoHidalgo.private.md) 
+### [Hidalgo.protect](/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Hidalgo.protect.md) 
 
-### [Hidalgo.personal](/_personal/\Earth\Continent\America~Central\Mexico\States~MexicoHidalgo.personal.md) 
+### [Hidalgo.private](/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Hidalgo.private.md) 
 
-### [Hidalgo.secret](/_secret/\Earth\Continent\America~Central\Mexico\States~MexicoHidalgo.secret.md)
+### [Hidalgo.personal](/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Hidalgo.personal.md) 
+
+### [Hidalgo.secret](/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Hidalgo.secret.md)
 

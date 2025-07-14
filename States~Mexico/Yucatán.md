@@ -41,15 +41,17 @@ markerFolder: ./Yucatán/
 
 ## Confidential Links & Embeds: 
 
-### [Yucatán.public](/_public/\Earth\Continent\America~Central\Mexico\States~MexicoYucatán.public.md) 
+### [Yucatán](/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Yucatán.md) 
 
-### [Yucatán.internal](/_internal/\Earth\Continent\America~Central\Mexico\States~MexicoYucatán.internal.md) 
+### [Yucatán.public](/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Yucatán.public.md) 
 
-### [Yucatán.protect](/_protect/\Earth\Continent\America~Central\Mexico\States~MexicoYucatán.protect.md) 
+### [Yucatán.internal](/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Yucatán.internal.md) 
 
-### [Yucatán.private](/_private/\Earth\Continent\America~Central\Mexico\States~MexicoYucatán.private.md) 
+### [Yucatán.protect](/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Yucatán.protect.md) 
 
-### [Yucatán.personal](/_personal/\Earth\Continent\America~Central\Mexico\States~MexicoYucatán.personal.md) 
+### [Yucatán.private](/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Yucatán.private.md) 
 
-### [Yucatán.secret](/_secret/\Earth\Continent\America~Central\Mexico\States~MexicoYucatán.secret.md)
+### [Yucatán.personal](/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Yucatán.personal.md) 
+
+### [Yucatán.secret](/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Yucatán.secret.md)
 

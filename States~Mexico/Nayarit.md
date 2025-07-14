@@ -41,15 +41,17 @@ markerFolder: ./Nayarit/
 
 ## Confidential Links & Embeds: 
 
-### [Nayarit.public](/_public/\Earth\Continent\America~Central\Mexico\States~MexicoNayarit.public.md) 
+### [Nayarit](/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Nayarit.md) 
 
-### [Nayarit.internal](/_internal/\Earth\Continent\America~Central\Mexico\States~MexicoNayarit.internal.md) 
+### [Nayarit.public](/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Nayarit.public.md) 
 
-### [Nayarit.protect](/_protect/\Earth\Continent\America~Central\Mexico\States~MexicoNayarit.protect.md) 
+### [Nayarit.internal](/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Nayarit.internal.md) 
 
-### [Nayarit.private](/_private/\Earth\Continent\America~Central\Mexico\States~MexicoNayarit.private.md) 
+### [Nayarit.protect](/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Nayarit.protect.md) 
 
-### [Nayarit.personal](/_personal/\Earth\Continent\America~Central\Mexico\States~MexicoNayarit.personal.md) 
+### [Nayarit.private](/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Nayarit.private.md) 
 
-### [Nayarit.secret](/_secret/\Earth\Continent\America~Central\Mexico\States~MexicoNayarit.secret.md)
+### [Nayarit.personal](/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Nayarit.personal.md) 
+
+### [Nayarit.secret](/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Nayarit.secret.md)
 

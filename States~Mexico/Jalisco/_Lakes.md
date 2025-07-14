@@ -41,15 +41,17 @@ markerFolder: ./_Lakes/
 
 ## Confidential Links & Embeds: 
 
-### [_Lakes.public](/_public/\Earth\Continent\America~Central\Mexico\States~Mexico\Jalisco_Lakes.public.md) 
+### [_Lakes](/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Jalisco/_Lakes.md) 
 
-### [_Lakes.internal](/_internal/\Earth\Continent\America~Central\Mexico\States~Mexico\Jalisco_Lakes.internal.md) 
+### [_Lakes.public](/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Jalisco/_Lakes.public.md) 
 
-### [_Lakes.protect](/_protect/\Earth\Continent\America~Central\Mexico\States~Mexico\Jalisco_Lakes.protect.md) 
+### [_Lakes.internal](/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Jalisco/_Lakes.internal.md) 
 
-### [_Lakes.private](/_private/\Earth\Continent\America~Central\Mexico\States~Mexico\Jalisco_Lakes.private.md) 
+### [_Lakes.protect](/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Jalisco/_Lakes.protect.md) 
 
-### [_Lakes.personal](/_personal/\Earth\Continent\America~Central\Mexico\States~Mexico\Jalisco_Lakes.personal.md) 
+### [_Lakes.private](/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Jalisco/_Lakes.private.md) 
 
-### [_Lakes.secret](/_secret/\Earth\Continent\America~Central\Mexico\States~Mexico\Jalisco_Lakes.secret.md)
+### [_Lakes.personal](/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Jalisco/_Lakes.personal.md) 
+
+### [_Lakes.secret](/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Jalisco/_Lakes.secret.md)
 

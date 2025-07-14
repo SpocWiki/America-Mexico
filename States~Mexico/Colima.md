@@ -41,15 +41,17 @@ markerFolder: ./Colima/
 
 ## Confidential Links & Embeds: 
 
-### [Colima.public](/_public/\Earth\Continent\America~Central\Mexico\States~MexicoColima.public.md) 
+### [Colima](/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Colima.md) 
 
-### [Colima.internal](/_internal/\Earth\Continent\America~Central\Mexico\States~MexicoColima.internal.md) 
+### [Colima.public](/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Colima.public.md) 
 
-### [Colima.protect](/_protect/\Earth\Continent\America~Central\Mexico\States~MexicoColima.protect.md) 
+### [Colima.internal](/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Colima.internal.md) 
 
-### [Colima.private](/_private/\Earth\Continent\America~Central\Mexico\States~MexicoColima.private.md) 
+### [Colima.protect](/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Colima.protect.md) 
 
-### [Colima.personal](/_personal/\Earth\Continent\America~Central\Mexico\States~MexicoColima.personal.md) 
+### [Colima.private](/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Colima.private.md) 
 
-### [Colima.secret](/_secret/\Earth\Continent\America~Central\Mexico\States~MexicoColima.secret.md)
+### [Colima.personal](/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Colima.personal.md) 
+
+### [Colima.secret](/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Colima.secret.md)
 

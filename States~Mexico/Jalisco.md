@@ -41,15 +41,17 @@ markerFolder: ./Jalisco/
 
 ## Confidential Links & Embeds: 
 
-### [Jalisco.public](/_public/\Earth\Continent\America~Central\Mexico\States~MexicoJalisco.public.md) 
+### [Jalisco](/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Jalisco.md) 
 
-### [Jalisco.internal](/_internal/\Earth\Continent\America~Central\Mexico\States~MexicoJalisco.internal.md) 
+### [Jalisco.public](/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Jalisco.public.md) 
 
-### [Jalisco.protect](/_protect/\Earth\Continent\America~Central\Mexico\States~MexicoJalisco.protect.md) 
+### [Jalisco.internal](/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Jalisco.internal.md) 
 
-### [Jalisco.private](/_private/\Earth\Continent\America~Central\Mexico\States~MexicoJalisco.private.md) 
+### [Jalisco.protect](/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Jalisco.protect.md) 
 
-### [Jalisco.personal](/_personal/\Earth\Continent\America~Central\Mexico\States~MexicoJalisco.personal.md) 
+### [Jalisco.private](/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Jalisco.private.md) 
 
-### [Jalisco.secret](/_secret/\Earth\Continent\America~Central\Mexico\States~MexicoJalisco.secret.md)
+### [Jalisco.personal](/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Jalisco.personal.md) 
+
+### [Jalisco.secret](/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Jalisco.secret.md)
 
