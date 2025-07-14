@@ -40,11 +40,16 @@ markerFolder: ./Yucatán/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Central/Mexico/Counties/Yucatán|Yucatán]] 
-- [[../../../../../../_public/geo/Continent/America~Central/Mexico/Counties/Yucatán.public|Yucatán.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Yucatán.internal|Yucatán.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Yucatán.protect|Yucatán.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Central/Mexico/Counties/Yucatán.private|Yucatán.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Yucatán.personal|Yucatán.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Yucatán.secret|Yucatán.secret]] 
+
+### [Yucatán.public](/_public/\Earth\Continent\America~Central\Mexico\States~MexicoYucatán.public.md) 
+
+### [Yucatán.internal](/_internal/\Earth\Continent\America~Central\Mexico\States~MexicoYucatán.internal.md) 
+
+### [Yucatán.protect](/_protect/\Earth\Continent\America~Central\Mexico\States~MexicoYucatán.protect.md) 
+
+### [Yucatán.private](/_private/\Earth\Continent\America~Central\Mexico\States~MexicoYucatán.private.md) 
+
+### [Yucatán.personal](/_personal/\Earth\Continent\America~Central\Mexico\States~MexicoYucatán.personal.md) 
+
+### [Yucatán.secret](/_secret/\Earth\Continent\America~Central\Mexico\States~MexicoYucatán.secret.md)
 

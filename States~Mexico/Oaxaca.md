@@ -40,11 +40,16 @@ markerFolder: ./Oaxaca/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Central/Mexico/Counties/Oaxaca|Oaxaca]] 
-- [[../../../../../../_public/geo/Continent/America~Central/Mexico/Counties/Oaxaca.public|Oaxaca.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Oaxaca.internal|Oaxaca.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Oaxaca.protect|Oaxaca.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Central/Mexico/Counties/Oaxaca.private|Oaxaca.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Oaxaca.personal|Oaxaca.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Oaxaca.secret|Oaxaca.secret]] 
+
+### [Oaxaca.public](/_public/\Earth\Continent\America~Central\Mexico\States~MexicoOaxaca.public.md) 
+
+### [Oaxaca.internal](/_internal/\Earth\Continent\America~Central\Mexico\States~MexicoOaxaca.internal.md) 
+
+### [Oaxaca.protect](/_protect/\Earth\Continent\America~Central\Mexico\States~MexicoOaxaca.protect.md) 
+
+### [Oaxaca.private](/_private/\Earth\Continent\America~Central\Mexico\States~MexicoOaxaca.private.md) 
+
+### [Oaxaca.personal](/_personal/\Earth\Continent\America~Central\Mexico\States~MexicoOaxaca.personal.md) 
+
+### [Oaxaca.secret](/_secret/\Earth\Continent\America~Central\Mexico\States~MexicoOaxaca.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Distrito_Federal/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Central/Mexico/Counties/Distrito_Federal|Distrito_Federal]] 
-- [[../../../../../../_public/geo/Continent/America~Central/Mexico/Counties/Distrito_Federal.public|Distrito_Federal.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Distrito_Federal.internal|Distrito_Federal.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Distrito_Federal.protect|Distrito_Federal.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Central/Mexico/Counties/Distrito_Federal.private|Distrito_Federal.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Distrito_Federal.personal|Distrito_Federal.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Distrito_Federal.secret|Distrito_Federal.secret]] 
+
+### [Distrito_Federal.public](/_public/\Earth\Continent\America~Central\Mexico\States~MexicoDistrito_Federal.public.md) 
+
+### [Distrito_Federal.internal](/_internal/\Earth\Continent\America~Central\Mexico\States~MexicoDistrito_Federal.internal.md) 
+
+### [Distrito_Federal.protect](/_protect/\Earth\Continent\America~Central\Mexico\States~MexicoDistrito_Federal.protect.md) 
+
+### [Distrito_Federal.private](/_private/\Earth\Continent\America~Central\Mexico\States~MexicoDistrito_Federal.private.md) 
+
+### [Distrito_Federal.personal](/_personal/\Earth\Continent\America~Central\Mexico\States~MexicoDistrito_Federal.personal.md) 
+
+### [Distrito_Federal.secret](/_secret/\Earth\Continent\America~Central\Mexico\States~MexicoDistrito_Federal.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 19.4
 - -99.15
@@ -248,10 +248,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/South-America/Mexico/City/Mexico~City|Mexico~City]] 
-- [[../../../../../../_public/geo/Continent/South-America/Mexico/City/Mexico~City.public|Mexico~City.public]] 
-- [[../../../../../../_internal/geo/Continent/South-America/Mexico/City/Mexico~City.internal|Mexico~City.internal]] 
-- [[../../../../../../_protect/geo/Continent/South-America/Mexico/City/Mexico~City.protect|Mexico~City.protect]] 
-- [[../../../../../../_private/geo/Continent/South-America/Mexico/City/Mexico~City.private|Mexico~City.private]] 
-- [[../../../../../../_personal/geo/Continent/South-America/Mexico/City/Mexico~City.personal|Mexico~City.personal]] 
-- [[../../../../../../_secret/geo/Continent/South-America/Mexico/City/Mexico~City.secret|Mexico~City.secret]] 
+
+### [Mexico_City.public](/_public/\Earth\Continent\America~Central\Mexico\States~Mexico\Distrito_Federal\CityMexico_City.public.md) 
+
+### [Mexico_City.internal](/_internal/\Earth\Continent\America~Central\Mexico\States~Mexico\Distrito_Federal\CityMexico_City.internal.md) 
+
+### [Mexico_City.protect](/_protect/\Earth\Continent\America~Central\Mexico\States~Mexico\Distrito_Federal\CityMexico_City.protect.md) 
+
+### [Mexico_City.private](/_private/\Earth\Continent\America~Central\Mexico\States~Mexico\Distrito_Federal\CityMexico_City.private.md) 
+
+### [Mexico_City.personal](/_personal/\Earth\Continent\America~Central\Mexico\States~Mexico\Distrito_Federal\CityMexico_City.personal.md) 
+
+### [Mexico_City.secret](/_secret/\Earth\Continent\America~Central\Mexico\States~Mexico\Distrito_Federal\CityMexico_City.secret.md)
+

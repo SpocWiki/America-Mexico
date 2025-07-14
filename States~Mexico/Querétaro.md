@@ -40,11 +40,16 @@ markerFolder: ./Querétaro/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Central/Mexico/Counties/Querétaro|Querétaro]] 
-- [[../../../../../../_public/geo/Continent/America~Central/Mexico/Counties/Querétaro.public|Querétaro.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Querétaro.internal|Querétaro.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Querétaro.protect|Querétaro.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Central/Mexico/Counties/Querétaro.private|Querétaro.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Querétaro.personal|Querétaro.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Querétaro.secret|Querétaro.secret]] 
+
+### [Querétaro.public](/_public/\Earth\Continent\America~Central\Mexico\States~MexicoQuerétaro.public.md) 
+
+### [Querétaro.internal](/_internal/\Earth\Continent\America~Central\Mexico\States~MexicoQuerétaro.internal.md) 
+
+### [Querétaro.protect](/_protect/\Earth\Continent\America~Central\Mexico\States~MexicoQuerétaro.protect.md) 
+
+### [Querétaro.private](/_private/\Earth\Continent\America~Central\Mexico\States~MexicoQuerétaro.private.md) 
+
+### [Querétaro.personal](/_personal/\Earth\Continent\America~Central\Mexico\States~MexicoQuerétaro.personal.md) 
+
+### [Querétaro.secret](/_secret/\Earth\Continent\America~Central\Mexico\States~MexicoQuerétaro.secret.md)
 

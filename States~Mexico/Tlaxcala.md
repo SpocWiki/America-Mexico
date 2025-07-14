@@ -40,11 +40,16 @@ markerFolder: ./Tlaxcala/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Central/Mexico/Counties/Tlaxcala|Tlaxcala]] 
-- [[../../../../../../_public/geo/Continent/America~Central/Mexico/Counties/Tlaxcala.public|Tlaxcala.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Tlaxcala.internal|Tlaxcala.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Tlaxcala.protect|Tlaxcala.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Central/Mexico/Counties/Tlaxcala.private|Tlaxcala.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Tlaxcala.personal|Tlaxcala.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Tlaxcala.secret|Tlaxcala.secret]] 
+
+### [Tlaxcala.public](/_public/\Earth\Continent\America~Central\Mexico\States~MexicoTlaxcala.public.md) 
+
+### [Tlaxcala.internal](/_internal/\Earth\Continent\America~Central\Mexico\States~MexicoTlaxcala.internal.md) 
+
+### [Tlaxcala.protect](/_protect/\Earth\Continent\America~Central\Mexico\States~MexicoTlaxcala.protect.md) 
+
+### [Tlaxcala.private](/_private/\Earth\Continent\America~Central\Mexico\States~MexicoTlaxcala.private.md) 
+
+### [Tlaxcala.personal](/_personal/\Earth\Continent\America~Central\Mexico\States~MexicoTlaxcala.personal.md) 
+
+### [Tlaxcala.secret](/_secret/\Earth\Continent\America~Central\Mexico\States~MexicoTlaxcala.secret.md)
 

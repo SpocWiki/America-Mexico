@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 19.4
 - -99.15
@@ -133,11 +133,17 @@ Capital :: [[Mexico_City]]
 [has_place_latitude::19.4] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[Mexico|Mexico]] 
-- [[../../../../_internal/geo/Continent/America~Central/Mexico.internal|Mexico.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Mexico.protect|Mexico.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Mexico.private|Mexico.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Mexico.personal|Mexico.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Mexico.secret|Mexico.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\America~Central\MexicoReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\America~Central\MexicoReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\America~Central\MexicoReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\America~Central\MexicoReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\America~Central\MexicoReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\America~Central\MexicoReadMe.secret.md)
+

@@ -40,11 +40,16 @@ markerFolder: ./Guerrero/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Central/Mexico/Counties/Guerrero|Guerrero]] 
-- [[../../../../../../_public/geo/Continent/America~Central/Mexico/Counties/Guerrero.public|Guerrero.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Guerrero.internal|Guerrero.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Guerrero.protect|Guerrero.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Central/Mexico/Counties/Guerrero.private|Guerrero.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Guerrero.personal|Guerrero.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Guerrero.secret|Guerrero.secret]] 
+
+### [Guerrero.public](/_public/\Earth\Continent\America~Central\Mexico\States~MexicoGuerrero.public.md) 
+
+### [Guerrero.internal](/_internal/\Earth\Continent\America~Central\Mexico\States~MexicoGuerrero.internal.md) 
+
+### [Guerrero.protect](/_protect/\Earth\Continent\America~Central\Mexico\States~MexicoGuerrero.protect.md) 
+
+### [Guerrero.private](/_private/\Earth\Continent\America~Central\Mexico\States~MexicoGuerrero.private.md) 
+
+### [Guerrero.personal](/_personal/\Earth\Continent\America~Central\Mexico\States~MexicoGuerrero.personal.md) 
+
+### [Guerrero.secret](/_secret/\Earth\Continent\America~Central\Mexico\States~MexicoGuerrero.secret.md)
 

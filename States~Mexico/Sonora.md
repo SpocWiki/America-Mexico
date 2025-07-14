@@ -40,11 +40,16 @@ markerFolder: ./Sonora/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Central/Mexico/Counties/Sonora|Sonora]] 
-- [[../../../../../../_public/geo/Continent/America~Central/Mexico/Counties/Sonora.public|Sonora.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Sonora.internal|Sonora.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Sonora.protect|Sonora.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Central/Mexico/Counties/Sonora.private|Sonora.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Sonora.personal|Sonora.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Sonora.secret|Sonora.secret]] 
+
+### [Sonora.public](/_public/\Earth\Continent\America~Central\Mexico\States~MexicoSonora.public.md) 
+
+### [Sonora.internal](/_internal/\Earth\Continent\America~Central\Mexico\States~MexicoSonora.internal.md) 
+
+### [Sonora.protect](/_protect/\Earth\Continent\America~Central\Mexico\States~MexicoSonora.protect.md) 
+
+### [Sonora.private](/_private/\Earth\Continent\America~Central\Mexico\States~MexicoSonora.private.md) 
+
+### [Sonora.personal](/_personal/\Earth\Continent\America~Central\Mexico\States~MexicoSonora.personal.md) 
+
+### [Sonora.secret](/_secret/\Earth\Continent\America~Central\Mexico\States~MexicoSonora.secret.md)
 
