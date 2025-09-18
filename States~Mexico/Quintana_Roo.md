@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Quintana_Roo
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Quintana_Roo/
 markerFolder: ./Quintana_Roo/

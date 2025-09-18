@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Baja_California
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Baja_California/
 markerFolder: ./Baja_California/

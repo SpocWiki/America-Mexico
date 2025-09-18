@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Veracruz
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Veracruz/
 markerFolder: ./Veracruz/

@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: San_Luis_Potosí
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./San_Luis_Potosí/
 markerFolder: ./San_Luis_Potosí/

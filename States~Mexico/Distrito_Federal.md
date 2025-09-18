@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Distrito_Federal
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Distrito_Federal/
 markerFolder: ./Distrito_Federal/

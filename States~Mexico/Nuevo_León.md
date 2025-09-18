@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Nuevo_León
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Nuevo_León/
 markerFolder: ./Nuevo_León/
