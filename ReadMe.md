@@ -118,7 +118,7 @@ markerFolder: ./
 [Area-Land::1908690] 
 Continent :: [[South-America]]  
 [VehicleCode::MEX] 
-Capital :: [[Mexico_City]]  
+Capital :: [[States~Mexico/Mexico_City]]  
 
 ![[Mexico/Coat_of_arms_of_Mexico.svg|350]] 
 
