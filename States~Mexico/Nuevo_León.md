@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Nuevo_León
+  - Nuevo Leon
 location:
   - 25.5
   - -99.6
@@ -12,8 +15,6 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Nuevo_León
 Languages:
   - de
 cssclasses:
@@ -26,7 +27,7 @@ publishDate:
 expiryDate:
 ---
 
-# Nuevo_León
+# [[Nuevo_León]]
 
 ```leaflet
 id: Nuevo_León
