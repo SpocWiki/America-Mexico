@@ -19,7 +19,7 @@ has_effect:
   - "[[_Standards/WikiData/WD~United_States,30]]"
   - "[[_Standards/WikiData/WD~Mexico,96]]"
 country: "[[_Standards/WikiData/WD~United_States,30]]"
-location: "[[_Standards/WikiData/WD~Mexico,96]]"
+locations: "[[_Standards/WikiData/WD~Mexico,96]]"
 instance_of: "[[_Standards/WikiData/WD~war,198]]"
 number_of_deaths: 11733
 U_S_National_Archives_Identifier: "10641175"

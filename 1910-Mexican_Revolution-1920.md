@@ -15,7 +15,7 @@ category_of_associated_people: "[[_Standards/WikiData/WD~Q32481440,32481440]]"
 instance_of:
   - "[[_Standards/WikiData/WD~civil_war,8465]]"
   - "[[_Standards/WikiData/WD~revolution,10931]]"
-location: "[[_Standards/WikiData/WD~Mexico,96]]"
+locations: "[[_Standards/WikiData/WD~Mexico,96]]"
 country: "[[_Standards/WikiData/WD~Mexico,96]]"
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Mexican%20Revolution%20banner.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Revoluci%C3%B3n%20mexicana%201915.svg
