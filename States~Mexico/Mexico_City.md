@@ -217,7 +217,7 @@ State ::
 Country :: [[../../Mexico]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../WikiData/WD~Mexico_City,1489|WD~Mexico_City,1489]] 
 
