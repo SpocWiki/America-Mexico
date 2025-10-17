@@ -25,7 +25,7 @@ disabled_accessibility: "[[_Standards/WikiData/WD~wheelchair_accessible,24192067
 copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
 locations: "[[_Standards/WikiData/WD~Primera_Sección_del_Bosque_de_Chapultepec,98404987]]"
 open_days: "[[_Standards/WikiData/WD~Tuesday_to_Sunday,99731947]]"
-headquarters_location: "[[_Standards/WikiData/WD~Mexico_City,1489]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Mexico_City,1489]]"
 main_subject: "[[_Standards/WikiData/WD~anthropology,23404]]"
 country: "[[_Standards/WikiData/WD~Mexico,96]]"
 closed_on: "[[_Standards/WikiData/WD~Monday,105]]"

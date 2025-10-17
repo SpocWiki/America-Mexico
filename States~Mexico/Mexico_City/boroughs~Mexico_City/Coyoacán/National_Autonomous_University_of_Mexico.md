@@ -14,7 +14,7 @@ Commons_Institution_page: Universidad Nacional Autónoma de México
 Commons_gallery: Universidad Nacional Autónoma de México (UNAM)
 native_label: Universidad Nacional Autónoma de México
 inception: 1910-09-22T00:00:00Z
-headquarters_location: "[[_Standards/WikiData/WD~Coyoacán,661315]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Coyoacán,661315]]"
 owner_of:
   - "[[_Standards/WikiData/WD~Universitary_Olympic_Stadium,767558]]"
   - "[[_Standards/WikiData/WD~Pumas_Morelos,1134577]]"
