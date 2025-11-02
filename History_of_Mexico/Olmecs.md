@@ -6,7 +6,7 @@ aliases:
 has_id_wikidata: Q135364
 has_works_in_the_collection: "[[_Standards/WikiData/WD~Art_Institute_of_Chicago,239303]]"
 described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-location: "[[_Standards/WikiData/WD~Olmec_heartland,3321023]]"
+locations: "[[_Standards/WikiData/WD~Olmec_heartland,3321023]]"
 start_time: -1399-01-01T00:00:00Z
 instance_of:
   - "[[_Standards/WikiData/WD~civilization,8432]]"
