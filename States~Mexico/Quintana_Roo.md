@@ -26,15 +26,20 @@ publishDate:
 expiryDate:
 ---
 
-# Quintana_Roo
+# [[Quintana_Roo]]
+
+## #has_/map  
 
 ```leaflet
 id: Quintana_Roo
-zoomFeatures: true 
+zoomFeatures: false 
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Quintana_Roo/
 markerFolder: ./Quintana_Roo/
+coordinates: [[Quintana_Roo]] 
+markerFile: [[Quintana_Roo]] 
+defaultZoom: 7 
 ```
 
 
