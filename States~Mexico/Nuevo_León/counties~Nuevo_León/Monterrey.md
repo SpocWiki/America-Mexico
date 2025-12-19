@@ -1,7 +1,9 @@
 ---
 aliases:
 has_id_wikidata: Q81033
-location: [25.684444444, -100.318055555]
+location:
+  - 25.684444444
+  - -100.318055555
 coordinate_location: Point(-100.318055555 25.684444444)
 twinned_administrative_body:
   - "[[_Standards/WikiData/WD~Hamilton,133116]]"
@@ -54,7 +56,7 @@ different_from:
   - "[[_Standards/WikiData/WD~Monterrey,1525276]]"
   - "[[_Standards/WikiData/WD~Monterrey,3862351]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
