@@ -1,4 +1,14 @@
 ---
+aliases:
+  - Mexico
+  - México
+  - Mexique
+  - المكسيك
+  - 墨西哥
+  - Мексика
+  - the United Mexican States
+  - los Estados Unidos Mexicanos
+  - ReadMe
 location:
   - 19.4
   - -99.15
@@ -15,21 +25,12 @@ cssclasses:
   - Country
 publish: true
 title: Mexico
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Mexico
-  - México
-  - Mexique
-  - المكسيك
-  - 墨西哥
-  - Мексика
-  - the United Mexican States
-  - los Estados Unidos Mexicanos
+publishDate: ''
+expiryDate: ''
 Languages:
   - es-MX
 ---

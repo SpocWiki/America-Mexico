@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Baja_California_Sur
+  - Baja California Sur
 location:
   - 25.4
   - -111.5
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Baja_California_Sur
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Baja_California_Sur

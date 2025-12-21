@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Quintana_Roo
+  - Quintana Roo
 location:
   - 19.8
   - -88.5
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Quintana_Roo
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Quintana_Roo]]

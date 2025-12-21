@@ -2,6 +2,7 @@
 aliases:
   - Nuevo_León
   - Nuevo Leon
+  - Nuevo León
 location:
   - 25.5
   - -99.6
@@ -20,11 +21,11 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Nuevo_León]]

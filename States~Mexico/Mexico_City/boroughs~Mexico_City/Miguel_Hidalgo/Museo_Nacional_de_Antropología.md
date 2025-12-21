@@ -2,37 +2,40 @@
 aliases:
   - National Museum of Anthropology
   - Museo Nacional de Antropología
+  - Museo_Nacional_de_Antropología
 has_id_wikidata: Q524249
-location: [ 19.426111111, -99.186111111]
+location:
+  - 19.426111111
+  - -99.186111111
 coordinate_location: Point(-99.186111111 19.426111111)
 payment_types_accepted:
-  - "[[_Standards/WikiData/WD~credit_card,161380]]"
-  - "[[_Standards/WikiData/WD~cash,693464]]"
-  - "[[_Standards/WikiData/WD~debit_card,13499]]"
+  - '[[_Standards/WikiData/WD~credit_card,161380]]'
+  - '[[_Standards/WikiData/WD~cash,693464]]'
+  - '[[_Standards/WikiData/WD~debit_card,13499]]'
 architect:
-  - "[[_Standards/WikiData/WD~Pedro_Ramírez_Vázquez,350915]]"
-  - "[[_Standards/WikiData/WD~Rafael_Mijares_Alcérreca,2126990]]"
-part_of: "[[_Standards/WikiData/WD~Instituto_Nacional_de_Antropología_e_Historia,901361]]"
-located_on_street: "[[_Standards/WikiData/WD~Paseo_de_la_Reforma,1478843]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Miguel_Hidalgo,1832732]]"
+  - '[[_Standards/WikiData/WD~Pedro_Ramírez_Vázquez,350915]]'
+  - '[[_Standards/WikiData/WD~Rafael_Mijares_Alcérreca,2126990]]'
+part_of: '[[_Standards/WikiData/WD~Instituto_Nacional_de_Antropología_e_Historia,901361]]'
+located_on_street: '[[_Standards/WikiData/WD~Paseo_de_la_Reforma,1478843]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Miguel_Hidalgo,1832732]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~archaeological_museum,3329412]]"
-  - "[[_Standards/WikiData/WD~national_museum,17431399]]"
-  - "[[_Standards/WikiData/WD~museum_building,24699794]]"
-  - "[[_Standards/WikiData/WD~museum,33506]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~National_Museum_of_World_Cultures,17153751]]"
-disabled_accessibility: "[[_Standards/WikiData/WD~wheelchair_accessible,24192067]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
-locations: "[[_Standards/WikiData/WD~Primera_Sección_del_Bosque_de_Chapultepec,98404987]]"
-open_days: "[[_Standards/WikiData/WD~Tuesday_to_Sunday,99731947]]"
-headquarters_locations: "[[_Standards/WikiData/WD~Mexico_City,1489]]"
-main_subject: "[[_Standards/WikiData/WD~anthropology,23404]]"
-country: "[[_Standards/WikiData/WD~Mexico,96]]"
-closed_on: "[[_Standards/WikiData/WD~Monday,105]]"
+  - '[[_Standards/WikiData/WD~archaeological_museum,3329412]]'
+  - '[[_Standards/WikiData/WD~national_museum,17431399]]'
+  - '[[_Standards/WikiData/WD~museum_building,24699794]]'
+  - '[[_Standards/WikiData/WD~museum,33506]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~National_Museum_of_World_Cultures,17153751]]'
+disabled_accessibility: '[[_Standards/WikiData/WD~wheelchair_accessible,24192067]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
+locations: '[[_Standards/WikiData/WD~Primera_Sección_del_Bosque_de_Chapultepec,98404987]]'
+open_days: '[[_Standards/WikiData/WD~Tuesday_to_Sunday,99731947]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Mexico_City,1489]]'
+main_subject: '[[_Standards/WikiData/WD~anthropology,23404]]'
+country: '[[_Standards/WikiData/WD~Mexico,96]]'
+closed_on: '[[_Standards/WikiData/WD~Monday,105]]'
 visitors_per_year: 2000000
 area: 8
 fee: 90
-postal_code: "11560"
+postal_code: 11560
 social_media_followers: 361746
 date_of_official_opening: 1964-09-17T00:00:00Z
 inception: 1964-01-01T00:00:00Z
@@ -45,7 +48,7 @@ logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Museo%20Nacional%
 official_website: https://www.mna.inah.gob.mx
 email_address: mailto:atención.mna@inah.gob.mx
 phone_number: +52-55-55536266
-ISNI: "0000000121749676"
+ISNI: 0000000121749676
 X_Twitter_username: mna_inah
 Commons_Institution_page: Museo Nacional de Antropología (México)
 Commons_category: National Museum of Anthropology

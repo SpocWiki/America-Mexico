@@ -1,15 +1,17 @@
 ---
 aliases:
   - history of Mexico
+  - History_of_Mexico
+  - History of Mexico
 has_id_wikidata: Q212763
 subclass_of:
-  - "[[_Standards/WikiData/WD~history_of_North_America,149527]]"
-  - "[[_Standards/WikiData/WD~history_of_Latin_America,2365406]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Mexico,13427308]]"
-instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
-facet_of: "[[_Standards/WikiData/WD~Mexico,96]]"
-Dewey_Decimal_Classification: "972"
+  - '[[_Standards/WikiData/WD~history_of_North_America,149527]]'
+  - '[[_Standards/WikiData/WD~history_of_Latin_America,2365406]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_Mexico,13427308]]'
+instance_of: '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
+facet_of: '[[_Standards/WikiData/WD~Mexico,96]]'
+Dewey_Decimal_Classification: 972
 Commons_category: History of Mexico
 ---
 

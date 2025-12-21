@@ -3,36 +3,36 @@ aliases:
   - Teotihuacan
   - Teotihuacán
 has_id_wikidata: Q172613
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~State_of_Mexico,82112]]"
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~State_of_Mexico,82112]]'
 significant_event:
-  - "[[_Standards/WikiData/WD~abandonment,305418]]"
-  - "[[_Standards/WikiData/WD~societal_collapse,3042783]]"
-architectural_style: "[[_Standards/WikiData/WD~Talud_tablero,338739]]"
+  - '[[_Standards/WikiData/WD~abandonment,305418]]'
+  - '[[_Standards/WikiData/WD~societal_collapse,3042783]]'
+architectural_style: '[[_Standards/WikiData/WD~Talud_tablero,338739]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~archaeological_site,839954]]"
-  - "[[_Standards/WikiData/WD~historic_site,1081138]]"
-location: "[[_Standards/WikiData/WD~Teotihuacán_de_Arista,2466650]]"
+  - '[[_Standards/WikiData/WD~archaeological_site,839954]]'
+  - '[[_Standards/WikiData/WD~historic_site,1081138]]'
+location: '[[_Standards/WikiData/WD~Teotihuacán_de_Arista,2466650]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Avenue_of_the_Dead,4166757]]"
-  - "[[_Standards/WikiData/WD~Temple_of_the_Feathered_Serpent,_Teotihuacan,7698758]]"
-  - "[[_Standards/WikiData/WD~Quetzalpapálotl,28155501]]"
-  - "[[_Standards/WikiData/WD~Pyramid_of_the_Sun,29238]]"
-  - "[[_Standards/WikiData/WD~Pyramid_of_the_Moon,29240]]"
+  - '[[_Standards/WikiData/WD~Avenue_of_the_Dead,4166757]]'
+  - '[[_Standards/WikiData/WD~Temple_of_the_Feathered_Serpent,_Teotihuacan,7698758]]'
+  - '[[_Standards/WikiData/WD~Quetzalpapálotl,28155501]]'
+  - '[[_Standards/WikiData/WD~Pyramid_of_the_Sun,29238]]'
+  - '[[_Standards/WikiData/WD~Pyramid_of_the_Moon,29240]]'
 World_Heritage_criteria:
-  - "[[_Standards/WikiData/WD~(i),23038972]]"
-  - "[[_Standards/WikiData/WD~(iv),23038978]]"
-  - "[[_Standards/WikiData/WD~(ii),23038976]]"
-  - "[[_Standards/WikiData/WD~(iii),23038977]]"
-  - "[[_Standards/WikiData/WD~(vi),23038980]]"
+  - '[[_Standards/WikiData/WD~(i),23038972]]'
+  - '[[_Standards/WikiData/WD~(iv),23038978]]'
+  - '[[_Standards/WikiData/WD~(ii),23038976]]'
+  - '[[_Standards/WikiData/WD~(iii),23038977]]'
+  - '[[_Standards/WikiData/WD~(vi),23038980]]'
 heritage_designation:
-  - "[[_Standards/WikiData/WD~Cultural_property_under_special_protection,26086651]]"
-  - "[[_Standards/WikiData/WD~World_Heritage_Site,9259]]"
-state_of_conservation: "[[_Standards/WikiData/WD~in_danger,55555088]]"
-described_by_source: "[[_Standards/WikiData/WD~The_Dawn_of_Everything,108922801]]"
-culture: "[[_Standards/WikiData/WD~Teotihuacan_civilization,116795888]]"
+  - '[[_Standards/WikiData/WD~Cultural_property_under_special_protection,26086651]]'
+  - '[[_Standards/WikiData/WD~World_Heritage_Site,9259]]'
+state_of_conservation: '[[_Standards/WikiData/WD~in_danger,55555088]]'
+described_by_source: '[[_Standards/WikiData/WD~The_Dawn_of_Everything,108922801]]'
+culture: '[[_Standards/WikiData/WD~Teotihuacan_civilization,116795888]]'
 coordinate_location: Point(-98.843888888 19.6925)
-different_from: "[[_Standards/WikiData/WD~Tenochtitlan,13695]]"
-country: "[[_Standards/WikiData/WD~Mexico,96]]"
+different_from: '[[_Standards/WikiData/WD~Tenochtitlan,13695]]'
+country: '[[_Standards/WikiData/WD~Mexico,96]]'
 area:
   - 250
   - 3118.15

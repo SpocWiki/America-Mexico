@@ -1,4 +1,7 @@
 ---
+aliases:
+  - San_Luis_Potosí
+  - San Luis Potosí
 location:
   - 22.9
   - -101.1
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - San_Luis_Potosí
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # San_Luis_Potosí

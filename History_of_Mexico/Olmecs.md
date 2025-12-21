@@ -4,14 +4,14 @@ aliases:
   - Olmec
   - Olmeken
 has_id_wikidata: Q135364
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Art_Institute_of_Chicago,239303]]"
-described_by_source: "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-locations: "[[_Standards/WikiData/WD~Olmec_heartland,3321023]]"
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Art_Institute_of_Chicago,239303]]'
+described_by_source: '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+locations: '[[_Standards/WikiData/WD~Olmec_heartland,3321023]]'
 start_time: -1399-01-01T00:00:00Z
 instance_of:
-  - "[[_Standards/WikiData/WD~civilization,8432]]"
-  - "[[_Standards/WikiData/WD~culture,11042]]"
-  - "[[_Standards/WikiData/WD~ethnic_group,41710]]"
+  - '[[_Standards/WikiData/WD~civilization,8432]]'
+  - '[[_Standards/WikiData/WD~culture,11042]]'
+  - '[[_Standards/WikiData/WD~ethnic_group,41710]]'
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Olmec%20Heartland%20Overview%204.svg
 Commons_category: Olmec
 ---

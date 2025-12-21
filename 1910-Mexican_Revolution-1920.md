@@ -2,21 +2,23 @@
 aliases:
   - Mexican Revolution
   - Revolución mexicana
+  - 1910-Mexican_Revolution-1920
+  - 1910-Mexican Revolution-1920
 has_id_wikidata: Q214426
 participant:
-  - "[[_Standards/WikiData/WD~Pancho_Villa,192278]]"
-  - "[[_Standards/WikiData/WD~Francisco_I._Madero,216766]]"
-  - "[[_Standards/WikiData/WD~Emiliano_Zapata,41718]]"
+  - '[[_Standards/WikiData/WD~Pancho_Villa,192278]]'
+  - '[[_Standards/WikiData/WD~Francisco_I._Madero,216766]]'
+  - '[[_Standards/WikiData/WD~Emiliano_Zapata,41718]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-followed_by: "[[_Standards/WikiData/WD~post_revolutionary_Mexico,6036040]]"
-category_of_associated_people: "[[_Standards/WikiData/WD~Q32481440,32481440]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+followed_by: '[[_Standards/WikiData/WD~post_revolutionary_Mexico,6036040]]'
+category_of_associated_people: '[[_Standards/WikiData/WD~Q32481440,32481440]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~civil_war,8465]]"
-  - "[[_Standards/WikiData/WD~revolution,10931]]"
-locations: "[[_Standards/WikiData/WD~Mexico,96]]"
-country: "[[_Standards/WikiData/WD~Mexico,96]]"
+  - '[[_Standards/WikiData/WD~civil_war,8465]]'
+  - '[[_Standards/WikiData/WD~revolution,10931]]'
+locations: '[[_Standards/WikiData/WD~Mexico,96]]'
+country: '[[_Standards/WikiData/WD~Mexico,96]]'
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Mexican%20Revolution%20banner.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Revoluci%C3%B3n%20mexicana%201915.svg
 Commons_gallery: Mexican Revolution

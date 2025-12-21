@@ -1,6 +1,8 @@
 ---
 aliases:
   - Yucatec Maya
+  - Chichen_Itza
+  - Chichen Itza
 has_id_wikidata: Q5859
 ---
 

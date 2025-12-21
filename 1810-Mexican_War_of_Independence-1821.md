@@ -2,9 +2,11 @@
 aliases:
   - Mexican War of Independence
   - Guerra de Independencia de México
+  - 1810-Mexican_War_of_Independence-1821
+  - 1810-Mexican War of Independence-1821
 has_id_wikidata: Q68750
-instance_of: "[[_Standards/WikiData/WD~war_of_national_liberation,1006311]]"
-locations: "[[_Standards/WikiData/WD~Northern_America_and_Mexico,19464773]]"
+instance_of: '[[_Standards/WikiData/WD~war_of_national_liberation,1006311]]'
+locations: '[[_Standards/WikiData/WD~Northern_America_and_Mexico,19464773]]'
 end_time: 1821-09-27T00:00:00Z
 start_time: 1800-09-16T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Collage%20Independencia.jpg

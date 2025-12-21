@@ -3,38 +3,41 @@ aliases:
   - Metropolitan Cathedral of the Assumption of the Most Blessed Virgin Mary into Heaven
   - Catedral Metropolitana de la Asunción de la Bienaventurada Virgen María a los cielos
   - Mexico City Metropolitan Cathedral
+  - Mexico_City_Metropolitan_Cathedral
 has_id_wikidata: Q610961
-location: [ 19.4343942, -99.1330824]
+location:
+  - 19.4343942
+  - -99.1330824
 coordinate_location: Point(-99.1330824 19.4343942)
-dedicated_to: "[[_Standards/WikiData/WD~Assumption_of_Mary,162691]]"
-named_after: "[[_Standards/WikiData/WD~Assumption_of_Mary,162691]]"
-diocese: "[[_Standards/WikiData/WD~Roman_Catholic_Archdiocese_of_Mexico_(city),586485]]"
-owned_by: "[[_Standards/WikiData/WD~Roman_Catholic_Archdiocese_of_Mexico_(city),586485]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Cuauhtémoc,645293]]"
-architectural_style: "[[_Standards/WikiData/WD~baroque_architecture,840829]]"
+dedicated_to: '[[_Standards/WikiData/WD~Assumption_of_Mary,162691]]'
+named_after: '[[_Standards/WikiData/WD~Assumption_of_Mary,162691]]'
+diocese: '[[_Standards/WikiData/WD~Roman_Catholic_Archdiocese_of_Mexico_(city),586485]]'
+owned_by: '[[_Standards/WikiData/WD~Roman_Catholic_Archdiocese_of_Mexico_(city),586485]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Cuauhtémoc,645293]]'
+architectural_style: '[[_Standards/WikiData/WD~baroque_architecture,840829]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~tourist_destination,1200957]]"
-  - "[[_Standards/WikiData/WD~Catholic_cathedral,56242215]]"
+  - '[[_Standards/WikiData/WD~tourist_destination,1200957]]'
+  - '[[_Standards/WikiData/WD~Catholic_cathedral,56242215]]'
 architect:
-  - "[[_Standards/WikiData/WD~Manuel_Tolsá,1374668]]"
-  - "[[_Standards/WikiData/WD~Claudio_de_Arciniega,5129432]]"
-  - "[[_Standards/WikiData/WD~José_Damián_Ortiz_de_Castro,5836674]]"
-  - "[[_Standards/WikiData/WD~Juan_Gómez_de_Trasmonte,5949928]]"
-  - "[[_Standards/WikiData/WD~José_Eduardo_de_Herrera,18223765]]"
-locations: "[[_Standards/WikiData/WD~Historic_downtown_of_Mexico_City,2146288]]"
+  - '[[_Standards/WikiData/WD~Manuel_Tolsá,1374668]]'
+  - '[[_Standards/WikiData/WD~Claudio_de_Arciniega,5129432]]'
+  - '[[_Standards/WikiData/WD~José_Damián_Ortiz_de_Castro,5836674]]'
+  - '[[_Standards/WikiData/WD~Juan_Gómez_de_Trasmonte,5949928]]'
+  - '[[_Standards/WikiData/WD~José_Eduardo_de_Herrera,18223765]]'
+locations: '[[_Standards/WikiData/WD~Historic_downtown_of_Mexico_City,2146288]]'
 made_from_material:
-  - "[[_Standards/WikiData/WD~tezontle,3427251]]"
-  - "[[_Standards/WikiData/WD~cantera,5033608]]"
-  - "[[_Standards/WikiData/WD~chiluca,100138234]]"
-located_on_street: "[[_Standards/WikiData/WD~Plaza_de_la_Constitución,129272003]]"
-described_by_source: "[[_Standards/WikiData/WD~Meyer_s_Universum,_Achter_Band,131447403]]"
+  - '[[_Standards/WikiData/WD~tezontle,3427251]]'
+  - '[[_Standards/WikiData/WD~cantera,5033608]]'
+  - '[[_Standards/WikiData/WD~chiluca,100138234]]'
+located_on_street: '[[_Standards/WikiData/WD~Plaza_de_la_Constitución,129272003]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyer_s_Universum,_Achter_Band,131447403]]'
 inception: 1570-01-01T00:00:00Z
-religion_or_worldview: "[[_Standards/WikiData/WD~Catholicism,1841]]"
-country: "[[_Standards/WikiData/WD~Mexico,96]]"
-real_estate_developer: "[[_Standards/WikiData/WD~Philip_II_of_Spain,34417]]"
+religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841]]'
+country: '[[_Standards/WikiData/WD~Mexico,96]]'
+real_estate_developer: '[[_Standards/WikiData/WD~Philip_II_of_Spain,34417]]'
 height: 67
 length: 128
-postal_code: "06000"
+postal_code: 06000
 Commons_category: Metropolitan Cathedral of Mexico City
 image_of_interior: http://commons.wikimedia.org/wiki/Special:FilePath/Altar%20Del%20Perdon%20%28108443195%29.jpeg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Catedral%20Metropolitana%20de%20la%20Ciudad%20de%20M%C3%A9xico%201.jpg
@@ -46,7 +49,7 @@ nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Encendido%20d
 panoramic_view: http://commons.wikimedia.org/wiki/Special:FilePath/Mexico%20City%20Zocalo%20Panorama%20%2849275255128%29.jpg
 official_website: https://catedralmetropolitana.mx
 email_address: mailto:info@catedralmetropolitana.mx
-ISNI: "0000000106664551"
+ISNI: 0000000106664551
 Commons_gallery: Mexico City Metropolitan Cathedral
 ---
 

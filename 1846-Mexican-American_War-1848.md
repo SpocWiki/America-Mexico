@@ -2,27 +2,29 @@
 aliases:
   - Mexican–American War
   - United States as the Mexican War
+  - 1846-Mexican-American_War-1848
+  - 1846-Mexican-American War-1848
 has_id_wikidata: Q6683
 has_part_s_: "[[_Standards/WikiData/WD~Saint_Patrick's_Battalion,1546864]]"
 participant:
-  - "[[_Standards/WikiData/WD~Second_Federal_Republic_of_Mexico,7443295]]"
-  - "[[_Standards/WikiData/WD~California_Republic,17557]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~Second_Federal_Republic_of_Mexico,7443295]]'
+  - '[[_Standards/WikiData/WD~California_Republic,17557]]'
+  - '[[_Standards/WikiData/WD~United_States,30]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Latinas_in_the_United_States_A_Historical_Encyclopedia,99982378]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+  - '[[_Standards/WikiData/WD~Latinas_in_the_United_States_A_Historical_Encyclopedia,99982378]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 end_time: 1848-02-02T00:00:00Z
 start_time: 1846-04-24T00:00:00Z
 point_in_time: 1840-01-01T00:00:00Z
 has_effect:
-  - "[[_Standards/WikiData/WD~Texas,1439]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Mexico,96]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
-locations: "[[_Standards/WikiData/WD~Mexico,96]]"
-instance_of: "[[_Standards/WikiData/WD~war,198]]"
+  - '[[_Standards/WikiData/WD~Texas,1439]]'
+  - '[[_Standards/WikiData/WD~United_States,30]]'
+  - '[[_Standards/WikiData/WD~Mexico,96]]'
+country: '[[_Standards/WikiData/WD~United_States,30]]'
+locations: '[[_Standards/WikiData/WD~Mexico,96]]'
+instance_of: '[[_Standards/WikiData/WD~war,198]]'
 number_of_deaths: 11733
-U_S_National_Archives_Identifier: "10641175"
+U_S_National_Archives_Identifier: 10641175
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20Molino%20del%20Rey.jpg
 Wolfram_Language_entity_code: Entity["MilitaryConflict", "MexicanAmericanWar"]
 Commons_category: Mexican-American War

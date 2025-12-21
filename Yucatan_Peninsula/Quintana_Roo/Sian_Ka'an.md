@@ -2,19 +2,23 @@
 aliases:
   - Sian Kaʼan Biosphere Reserve
   - Reserva de la Biósfera de Sian Kaʼan
+  - Sian_Ka'an
+  - Sian Ka'an
 has_id_wikidata: Q559789
-location: [ 19.383333333, -87.791666666]
+location:
+  - 19.383333333
+  - -87.791666666
 coordinate_location: Point(-87.791666666 19.383333333)
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Quintana_Roo,80245]]"
-instance_of: "[[_Standards/WikiData/WD~biosphere_reserve,158454]]"
-locations: "[[_Standards/WikiData/WD~Tulum_Municipality,1709171]]"
-member_of: "[[_Standards/WikiData/WD~Man_and_the_Biosphere_Programme,14018439]]"
-IUCN_protected_areas_category: "[[_Standards/WikiData/WD~IUCN_category_VI_Protected_Area_with_sustainable_use_of_natural_resources,14545652]]"
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Quintana_Roo,80245]]'
+instance_of: '[[_Standards/WikiData/WD~biosphere_reserve,158454]]'
+locations: '[[_Standards/WikiData/WD~Tulum_Municipality,1709171]]'
+member_of: '[[_Standards/WikiData/WD~Man_and_the_Biosphere_Programme,14018439]]'
+IUCN_protected_areas_category: '[[_Standards/WikiData/WD~IUCN_category_VI_Protected_Area_with_sustainable_use_of_natural_resources,14545652]]'
 heritage_designation:
-  - "[[_Standards/WikiData/WD~Ramsar_site,19683138]]"
-  - "[[_Standards/WikiData/WD~World_Heritage_Site,9259]]"
-World_Heritage_criteria: "[[_Standards/WikiData/WD~(vii),23038981]]"
-country: "[[_Standards/WikiData/WD~Mexico,96]]"
+  - '[[_Standards/WikiData/WD~Ramsar_site,19683138]]'
+  - '[[_Standards/WikiData/WD~World_Heritage_Site,9259]]'
+World_Heritage_criteria: '[[_Standards/WikiData/WD~(vii),23038981]]'
+country: '[[_Standards/WikiData/WD~Mexico,96]]'
 area: 528000
 UNESCO_Biosphere_Reserve_URL: http://www.unesco.org/new/en/natural-sciences/environment/ecological-sciences/biosphere-reserves/latin-america-and-the-caribbean/mexico/sian-kaan/
 Commons_category: Sian Ka´an

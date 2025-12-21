@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Distrito_Federal
+  - Distrito Federal
 location:
   - 19.3
   - -99.1
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Distrito_Federal
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Distrito_Federal

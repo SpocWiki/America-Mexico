@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Yucatán
+  - Yucatán State
 location:
   - 20.6
   - -89
@@ -12,19 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Yucatán
-  - Yucatán State
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Yucatán]] 
