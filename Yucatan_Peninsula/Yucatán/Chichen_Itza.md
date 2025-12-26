@@ -4,6 +4,33 @@ aliases:
   - Chichen_Itza
   - Chichen Itza
 has_id_wikidata: Q5859
+instance_of:
+  - "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
+  - "[[_Standards/WikiData/WD~archaeological_site,839954]]"
+  - "[[_Standards/WikiData/WD~ancient_city,15661340]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+location: "[[_Standards/WikiData/WD~Chichén_Itzá,20275587]]"
+World_Heritage_criteria:
+  - "[[_Standards/WikiData/WD~(i),23038972]]"
+  - "[[_Standards/WikiData/WD~(ii),23038976]]"
+  - "[[_Standards/WikiData/WD~(iii),23038977]]"
+heritage_designation:
+  - "[[_Standards/WikiData/WD~Cultural_property_under_special_protection,26086651]]"
+  - "[[_Standards/WikiData/WD~World_Heritage_Site,9259]]"
+coordinate_location: Point(-88.568611111 20.683055555)
+dissolved_abolished_or_demolished_date: 1178-01-01T00:00:00Z
+culture: "[[_Standards/WikiData/WD~Maya_civilization,28567]]"
+country: "[[_Standards/WikiData/WD~Mexico,96]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Yucatán,60176]]"
+official_website: https://www.chichenitza.com/
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Chichen%20Itza%203.jpg
+inception: 0455-01-01T00:00:00Z
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Chichen%20Itza%20WV%20banner.jpg
+Commons_category: Chichén Itzá
+IPA_transcription: tʃiːˈtʃɛn iːˈtsɑː
 ---
 
 # [[Chichen_Itza]] 
