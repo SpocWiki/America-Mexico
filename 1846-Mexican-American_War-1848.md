@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1846-04-24 
+has_time_stopped: 1848-02-02 
 aliases:
   - Mexican–American War
   - United States as the Mexican War

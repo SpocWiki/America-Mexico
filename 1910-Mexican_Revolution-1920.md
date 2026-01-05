@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1910-11-20 
+has_time_stopped: 1920-05-21 
 aliases:
   - Mexican Revolution
   - Revolución mexicana

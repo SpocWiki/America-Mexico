@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1800-09-16 
+has_time_stopped: 1821-09-27 
 aliases:
   - Mexican War of Independence
   - Guerra de Independencia de México

@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1964-01-01 
 aliases:
   - National Museum of Anthropology
   - Museo Nacional de Antropología

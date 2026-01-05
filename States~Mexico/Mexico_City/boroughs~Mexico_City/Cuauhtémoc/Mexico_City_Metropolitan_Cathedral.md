@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1570-01-01 
 aliases:
   - Metropolitan Cathedral of the Assumption of the Most Blessed Virgin Mary into Heaven
   - Catedral Metropolitana de la Asunción de la Bienaventurada Virgen María a los cielos
