@@ -41,15 +41,13 @@ dv_ISO4217-currency_country_name: MEXICO
 dv_Telephone: 52
 dv_Global: true
 dv_Global_Name: World
-dv_name: Mexico
-dv_name-en:
-  - Mexico
-  - Mexico
-dv_name-es: México
-dv_name-fr: Mexique
-dv_name-cn: 墨西哥
-dv_name-ar: المكسيك
-dv_name-ru: Мексика
+dv_has_name_: Mexico
+dv_has_name_en: Mexico
+dv_has_name_es: México
+dv_has_name_fr: Mexique
+dv_has_name_cn: 墨西哥
+dv_has_name_ar: المكسيك
+dv_has_name_ru: Мексика
 dv_CLDR_display_name: Mexico
 dv_UNTERM_English: Mexico
 dv_UNTERM_English_Formal: the United Mexican States
@@ -87,7 +85,7 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 484
 dv_ISO2: MX
 dv_ISO3: MEX
-dv_name-de: Mexiko
+dv_has_name_de: Mexiko
 dv_Area-Total: 1958201
 dv_Area-Land: 1908690
 dv_Continent: "[[South-America]]"
@@ -114,12 +112,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Mexico ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Mexico ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -179,8 +177,8 @@ geojsonFolder: .//
 markerFolder: ./
 ```
 
-[name-en::Mexico] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Mexico] 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent = `=this.dv_Continent`
