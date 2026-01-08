@@ -41,17 +41,17 @@ markerFolder: ./San_Luis_Potosí/
 
 ## Confidential Links & Embeds: 
 
-### [San_Luis_Potosí](/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/San_Luis_Potosí.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/San_Luis_Potosí|San_Luis_Potosí]] 
 
-### [San_Luis_Potosí.public](/_public/Earth/Continent/America~Central/Mexico/States~Mexico/San_Luis_Potosí.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Mexico/States~Mexico/San_Luis_Potosí.public|San_Luis_Potosí.public]] 
 
-### [San_Luis_Potosí.internal](/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/San_Luis_Potosí.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/San_Luis_Potosí.internal|San_Luis_Potosí.internal]] 
 
-### [San_Luis_Potosí.protect](/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/San_Luis_Potosí.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/San_Luis_Potosí.protect|San_Luis_Potosí.protect]] 
 
-### [San_Luis_Potosí.private](/_private/Earth/Continent/America~Central/Mexico/States~Mexico/San_Luis_Potosí.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Mexico/States~Mexico/San_Luis_Potosí.private|San_Luis_Potosí.private]] 
 
-### [San_Luis_Potosí.personal](/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/San_Luis_Potosí.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/San_Luis_Potosí.personal|San_Luis_Potosí.personal]] 
 
-### [San_Luis_Potosí.secret](/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/San_Luis_Potosí.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/San_Luis_Potosí.secret|San_Luis_Potosí.secret]] 
 

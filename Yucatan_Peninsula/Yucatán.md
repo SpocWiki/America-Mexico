@@ -62,19 +62,20 @@ markerFolder: ./Yucatán/
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Yucat%C3%A1n) 
 
+
 ## Confidential Links & Embeds: 
 
-### [Yucatán](/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Yucatán.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula/Yucatán|Yucatán]] 
 
-### [Yucatán.public](/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Yucatán.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula/Yucatán.public|Yucatán.public]] 
 
-### [Yucatán.internal](/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Yucatán.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula/Yucatán.internal|Yucatán.internal]] 
 
-### [Yucatán.protect](/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Yucatán.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula/Yucatán.protect|Yucatán.protect]] 
 
-### [Yucatán.private](/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Yucatán.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula/Yucatán.private|Yucatán.private]] 
 
-### [Yucatán.personal](/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Yucatán.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula/Yucatán.personal|Yucatán.personal]] 
 
-### [Yucatán.secret](/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Yucatán.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula/Yucatán.secret|Yucatán.secret]] 
 

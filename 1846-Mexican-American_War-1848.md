@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../WikiData/WD~Mexican-American_War,6683]]"
+dv_is_same_as: "[[../../../../WikiData/WD~Mexican-American_War,6683]]"
+
 has_time_started: 1846-04-24 
 has_time_stopped: 1848-02-02 
 aliases:
@@ -34,7 +38,7 @@ Commons_category: Mexican-American War
 
 # [[1846-Mexican-American_War-1848]] 
 
-#is_/same_as :: [[WD~Mexican-American_War,6683]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -59,4 +63,21 @@ Commons_category: Mexican-American War
 > The victory and territorial expansion Polk had spearheaded inspired patriotism among some sections of the United States, but the war and treaty drew fierce criticism for the casualties, monetary cost, and heavy-handedness. The question of how to treat the new acquisitions intensified the debate over slavery in the United States. Although the Wilmot Proviso that explicitly forbade the extension of slavery into conquered Mexican territory was not adopted by Congress, debates about it heightened sectional tensions. Some scholars see the Mexican–American War as leading to the American Civil War. Many officers who had trained at West Point gained experience in the war and later played prominent leadership roles during the Civil War. In Mexico, the war worsened domestic political turmoil and led to a loss of national prestige, as it suffered large losses of life in both its military and civilian population, had its financial foundations undermined, and lost more than half of its territory.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mexican%E2%80%93American%20War) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Mexico/1846-Mexican-American_War-1848|1846-Mexican-American_War-1848]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Mexico/1846-Mexican-American_War-1848.public|1846-Mexican-American_War-1848.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Mexico/1846-Mexican-American_War-1848.internal|1846-Mexican-American_War-1848.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Mexico/1846-Mexican-American_War-1848.protect|1846-Mexican-American_War-1848.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Mexico/1846-Mexican-American_War-1848.private|1846-Mexican-American_War-1848.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Mexico/1846-Mexican-American_War-1848.personal|1846-Mexican-American_War-1848.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Mexico/1846-Mexican-American_War-1848.secret|1846-Mexican-American_War-1848.secret]] 
 

@@ -42,17 +42,17 @@ markerFolder: ./Nuevo_León/
 
 ## Confidential Links & Embeds: 
 
-### [Nuevo_León](/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Nuevo_León.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Nuevo_León|Nuevo_León]] 
 
-### [Nuevo_León.public](/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Nuevo_León.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Nuevo_León.public|Nuevo_León.public]] 
 
-### [Nuevo_León.internal](/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Nuevo_León.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Nuevo_León.internal|Nuevo_León.internal]] 
 
-### [Nuevo_León.protect](/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Nuevo_León.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Nuevo_León.protect|Nuevo_León.protect]] 
 
-### [Nuevo_León.private](/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Nuevo_León.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Nuevo_León.private|Nuevo_León.private]] 
 
-### [Nuevo_León.personal](/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Nuevo_León.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Nuevo_León.personal|Nuevo_León.personal]] 
 
-### [Nuevo_León.secret](/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Nuevo_León.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Nuevo_León.secret|Nuevo_León.secret]] 
 

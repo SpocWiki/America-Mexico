@@ -1,7 +1,9 @@
 ---
 aliases:
 has_id_wikidata: Q29238
-location: [ 19.6925, -98.8438]
+location:
+  - 19.6925
+  - -98.8438
 coordinate_location: Point(-98.8438 19.6925)
 located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~State_of_Mexico,82112]]"
 locations: "[[_Standards/WikiData/WD~Teotihuacan,172613]]"
@@ -14,11 +16,14 @@ height: 65
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2020-02-11%20Teotihuacan%20la%20Avenida%20de%20los%20Muertos%20y%20la%20Pir%C3%A1mide%20del%20Sol.jpg
 native_label: Pirámide del Sol
 Commons_category: Pirámide del Sol
+dv_is_:
+  same_as: "[[../../../../../../../../WikiData/WD~Pyramid_of_the_Sun,29238|WD~Pyramid_of_the_Sun,29238]]"
+dv_is_same_as: "[[../../../../../../../../WikiData/WD~Pyramid_of_the_Sun,29238|WD~Pyramid_of_the_Sun,29238]]"
 ---
 
 # [[Pyramid_of_the_Sun]] 
 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Pyramid_of_the_Sun,29238|WD~Pyramid_of_the_Sun,29238]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -33,4 +38,21 @@ Commons_category: Pirámide del Sol
 > the pyramid is part of a large complex in the heart of the city.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pyramid%20of%20the%20Sun) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/México,State/counties~México/Teotihuacan/Pyramid_of_the_Sun|Pyramid_of_the_Sun]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Mexico/States~Mexico/México,State/counties~México/Teotihuacan/Pyramid_of_the_Sun.public|Pyramid_of_the_Sun.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/México,State/counties~México/Teotihuacan/Pyramid_of_the_Sun.internal|Pyramid_of_the_Sun.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/México,State/counties~México/Teotihuacan/Pyramid_of_the_Sun.protect|Pyramid_of_the_Sun.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Mexico/States~Mexico/México,State/counties~México/Teotihuacan/Pyramid_of_the_Sun.private|Pyramid_of_the_Sun.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/México,State/counties~México/Teotihuacan/Pyramid_of_the_Sun.personal|Pyramid_of_the_Sun.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/México,State/counties~México/Teotihuacan/Pyramid_of_the_Sun.secret|Pyramid_of_the_Sun.secret]] 
 

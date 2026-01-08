@@ -40,17 +40,17 @@ markerFolder: ./Tabasco/
 
 ## Confidential Links & Embeds: 
 
-### [Tabasco](/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Tabasco.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Tabasco|Tabasco]] 
 
-### [Tabasco.public](/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Tabasco.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Tabasco.public|Tabasco.public]] 
 
-### [Tabasco.internal](/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Tabasco.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Tabasco.internal|Tabasco.internal]] 
 
-### [Tabasco.protect](/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Tabasco.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Tabasco.protect|Tabasco.protect]] 
 
-### [Tabasco.private](/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Tabasco.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Tabasco.private|Tabasco.private]] 
 
-### [Tabasco.personal](/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Tabasco.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Tabasco.personal|Tabasco.personal]] 
 
-### [Tabasco.secret](/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Tabasco.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Tabasco.secret|Tabasco.secret]] 
 

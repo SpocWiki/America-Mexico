@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../WikiData/WD~Mexican_War_of_Independence,68750]]"
+dv_is_same_as: "[[../../../../WikiData/WD~Mexican_War_of_Independence,68750]]"
+
 has_time_started: 1800-09-16 
 has_time_stopped: 1821-09-27 
 aliases:
@@ -19,7 +23,7 @@ Commons_category: Mexican War of Independence
 
 # [[1810-Mexican_War_of_Independence-1821]] 
 
-#is_/same_as :: [[WD~Mexican_War_of_Independence,68750]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -35,4 +39,21 @@ Commons_category: Mexican War of Independence
 > Following independence, the mainland of New Spain was organized as the First Mexican Empire, led by Agustín de Iturbide. This ephemeral constitutional monarchy was overthrown and a federal republic was declared in 1823 and codified in the Constitution of 1824. After some Spanish reconquest attempts, including the expedition of Isidro Barradas in 1829, Spain under the rule of Isabella II recognized the independence of Mexico in 1836.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mexican%20War%20of%20Independence) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Mexico/1810-Mexican_War_of_Independence-1821|1810-Mexican_War_of_Independence-1821]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Mexico/1810-Mexican_War_of_Independence-1821.public|1810-Mexican_War_of_Independence-1821.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Mexico/1810-Mexican_War_of_Independence-1821.internal|1810-Mexican_War_of_Independence-1821.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Mexico/1810-Mexican_War_of_Independence-1821.protect|1810-Mexican_War_of_Independence-1821.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Mexico/1810-Mexican_War_of_Independence-1821.private|1810-Mexican_War_of_Independence-1821.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Mexico/1810-Mexican_War_of_Independence-1821.personal|1810-Mexican_War_of_Independence-1821.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Mexico/1810-Mexican_War_of_Independence-1821.secret|1810-Mexican_War_of_Independence-1821.secret]] 
 

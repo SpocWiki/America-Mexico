@@ -41,17 +41,17 @@ markerFolder: ./Distrito_Federal/
 
 ## Confidential Links & Embeds: 
 
-### [Distrito_Federal](/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Distrito_Federal.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Mexico_City/Distrito_Federal|Distrito_Federal]] 
 
-### [Distrito_Federal.public](/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Distrito_Federal.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Mexico_City/Distrito_Federal.public|Distrito_Federal.public]] 
 
-### [Distrito_Federal.internal](/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Distrito_Federal.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Mexico_City/Distrito_Federal.internal|Distrito_Federal.internal]] 
 
-### [Distrito_Federal.protect](/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Distrito_Federal.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Mexico_City/Distrito_Federal.protect|Distrito_Federal.protect]] 
 
-### [Distrito_Federal.private](/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Distrito_Federal.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Mexico_City/Distrito_Federal.private|Distrito_Federal.private]] 
 
-### [Distrito_Federal.personal](/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Distrito_Federal.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Mexico_City/Distrito_Federal.personal|Distrito_Federal.personal]] 
 
-### [Distrito_Federal.secret](/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Distrito_Federal.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Mexico_City/Distrito_Federal.secret|Distrito_Federal.secret]] 
 

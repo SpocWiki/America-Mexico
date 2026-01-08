@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Chichen_Itza,5859|WD~Chichen_Itza,5859]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Chichen_Itza,5859|WD~Chichen_Itza,5859]]"
+
 has_time_started: 0455-01-01 
 has_time_stopped: 1178-01-01 
 aliases:
@@ -37,7 +41,7 @@ IPA_transcription: tʃiːˈtʃɛn iːˈtsɑː
 
 # [[Chichen_Itza]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Chichen_Itza,5859|WD~Chichen_Itza,5859]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -54,4 +58,21 @@ IPA_transcription: tʃiːˈtʃɛn iːˈtsɑː
 > Chichén Itzá is one of the most visited archeological sites in Mexico with over 2.6 million tourists in 2017.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chichen%20Itza) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula/Yucatán/Chichen_Itza|Chichen_Itza]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula/Yucatán/Chichen_Itza.public|Chichen_Itza.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula/Yucatán/Chichen_Itza.internal|Chichen_Itza.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula/Yucatán/Chichen_Itza.protect|Chichen_Itza.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula/Yucatán/Chichen_Itza.private|Chichen_Itza.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula/Yucatán/Chichen_Itza.personal|Chichen_Itza.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula/Yucatán/Chichen_Itza.secret|Chichen_Itza.secret]] 
 

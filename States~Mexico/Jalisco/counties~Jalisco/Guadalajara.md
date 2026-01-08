@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../WikiData/WD~Guadalajara,9022|WD~Guadalajara,9022]]"
+dv_is_same_as: "[[../../../../../../../WikiData/WD~Guadalajara,9022|WD~Guadalajara,9022]]"
+
 has_time_started: 1542-01-01 
 aliases:
 has_id_wikidata: Q9022
@@ -195,7 +199,7 @@ VK_username: club46120732
 
 # [[Guadalajara]] 
 
-#is_/same_as :: [[../../../../../../../../../WikiData/WD~Guadalajara,9022|WD~Guadalajara,9022]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map  
 
@@ -268,4 +272,21 @@ maxZoom: 18
 > two of the highest-ranked universities in Mexico.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Guadalajara)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Jalisco/counties~Jalisco/Guadalajara|Guadalajara]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Jalisco/counties~Jalisco/Guadalajara.public|Guadalajara.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Jalisco/counties~Jalisco/Guadalajara.internal|Guadalajara.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Jalisco/counties~Jalisco/Guadalajara.protect|Guadalajara.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Jalisco/counties~Jalisco/Guadalajara.private|Guadalajara.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Jalisco/counties~Jalisco/Guadalajara.personal|Guadalajara.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Jalisco/counties~Jalisco/Guadalajara.secret|Guadalajara.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Chihuahua/
 
 ## Confidential Links & Embeds: 
 
-### [Chihuahua](/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Chihuahua.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Chihuahua|Chihuahua]] 
 
-### [Chihuahua.public](/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Chihuahua.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Chihuahua.public|Chihuahua.public]] 
 
-### [Chihuahua.internal](/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Chihuahua.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Chihuahua.internal|Chihuahua.internal]] 
 
-### [Chihuahua.protect](/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Chihuahua.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Chihuahua.protect|Chihuahua.protect]] 
 
-### [Chihuahua.private](/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Chihuahua.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Chihuahua.private|Chihuahua.private]] 
 
-### [Chihuahua.personal](/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Chihuahua.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Chihuahua.personal|Chihuahua.personal]] 
 
-### [Chihuahua.secret](/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Chihuahua.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Chihuahua.secret|Chihuahua.secret]] 
 

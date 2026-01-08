@@ -40,17 +40,17 @@ markerFolder: ./Sonora/
 
 ## Confidential Links & Embeds: 
 
-### [Sonora](/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Sonora.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Sonora|Sonora]] 
 
-### [Sonora.public](/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Sonora.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Sonora.public|Sonora.public]] 
 
-### [Sonora.internal](/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Sonora.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Sonora.internal|Sonora.internal]] 
 
-### [Sonora.protect](/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Sonora.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Sonora.protect|Sonora.protect]] 
 
-### [Sonora.private](/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Sonora.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Sonora.private|Sonora.private]] 
 
-### [Sonora.personal](/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Sonora.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Sonora.personal|Sonora.personal]] 
 
-### [Sonora.secret](/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Sonora.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Sonora.secret|Sonora.secret]] 
 

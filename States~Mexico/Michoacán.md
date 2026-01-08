@@ -40,17 +40,17 @@ markerFolder: ./Michoacán/
 
 ## Confidential Links & Embeds: 
 
-### [Michoacán](/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Michoacán.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Michoacán|Michoacán]] 
 
-### [Michoacán.public](/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Michoacán.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Michoacán.public|Michoacán.public]] 
 
-### [Michoacán.internal](/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Michoacán.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Michoacán.internal|Michoacán.internal]] 
 
-### [Michoacán.protect](/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Michoacán.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Michoacán.protect|Michoacán.protect]] 
 
-### [Michoacán.private](/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Michoacán.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Michoacán.private|Michoacán.private]] 
 
-### [Michoacán.personal](/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Michoacán.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Michoacán.personal|Michoacán.personal]] 
 
-### [Michoacán.secret](/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Michoacán.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Michoacán.secret|Michoacán.secret]] 
 

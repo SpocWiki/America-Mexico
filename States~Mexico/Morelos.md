@@ -40,17 +40,17 @@ markerFolder: ./Morelos/
 
 ## Confidential Links & Embeds: 
 
-### [Morelos](/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Morelos.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Morelos|Morelos]] 
 
-### [Morelos.public](/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Morelos.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Morelos.public|Morelos.public]] 
 
-### [Morelos.internal](/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Morelos.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Morelos.internal|Morelos.internal]] 
 
-### [Morelos.protect](/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Morelos.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Morelos.protect|Morelos.protect]] 
 
-### [Morelos.private](/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Morelos.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Morelos.private|Morelos.private]] 
 
-### [Morelos.personal](/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Morelos.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Morelos.personal|Morelos.personal]] 
 
-### [Morelos.secret](/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Morelos.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Morelos.secret|Morelos.secret]] 
 

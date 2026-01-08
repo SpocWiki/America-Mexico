@@ -40,17 +40,17 @@ markerFolder: ./Coahuila/
 
 ## Confidential Links & Embeds: 
 
-### [Coahuila](/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Coahuila.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Coahuila|Coahuila]] 
 
-### [Coahuila.public](/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Coahuila.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Coahuila.public|Coahuila.public]] 
 
-### [Coahuila.internal](/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Coahuila.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Coahuila.internal|Coahuila.internal]] 
 
-### [Coahuila.protect](/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Coahuila.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Coahuila.protect|Coahuila.protect]] 
 
-### [Coahuila.private](/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Coahuila.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Coahuila.private|Coahuila.private]] 
 
-### [Coahuila.personal](/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Coahuila.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Coahuila.personal|Coahuila.personal]] 
 
-### [Coahuila.secret](/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Coahuila.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Coahuila.secret|Coahuila.secret]] 
 

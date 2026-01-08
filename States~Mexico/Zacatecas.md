@@ -40,17 +40,17 @@ markerFolder: ./Zacatecas/
 
 ## Confidential Links & Embeds: 
 
-### [Zacatecas](/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Zacatecas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Zacatecas|Zacatecas]] 
 
-### [Zacatecas.public](/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Zacatecas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Zacatecas.public|Zacatecas.public]] 
 
-### [Zacatecas.internal](/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Zacatecas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Zacatecas.internal|Zacatecas.internal]] 
 
-### [Zacatecas.protect](/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Zacatecas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Zacatecas.protect|Zacatecas.protect]] 
 
-### [Zacatecas.private](/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Zacatecas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Zacatecas.private|Zacatecas.private]] 
 
-### [Zacatecas.personal](/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Zacatecas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Zacatecas.personal|Zacatecas.personal]] 
 
-### [Zacatecas.secret](/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Zacatecas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Zacatecas.secret|Zacatecas.secret]] 
 

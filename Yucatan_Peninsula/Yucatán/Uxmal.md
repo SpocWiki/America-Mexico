@@ -2,7 +2,9 @@
 aliases:
 has_id_wikidata: Q213232
 coordinate_location: Point(-89.771388888 20.359444444)
-location: [ 20.359444444, -89.771388888]
+location:
+  - 20.359444444
+  - -89.771388888
 instance_of: "[[_Standards/WikiData/WD~archaeological_site,839954]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
@@ -24,11 +26,14 @@ official_website: https://www.inah.gob.mx/zonas/110-zona-arqueologica-de-uxmal?h
 Commons_gallery: Uxmal
 Commons_category: Uxmal
 native_label: Uxmal
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Uxmal,213232|WD~Uxmal,213232]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Uxmal,213232|WD~Uxmal,213232]]"
 ---
 
 # [[Uxmal]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Uxmal,213232|WD~Uxmal,213232]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -45,4 +50,21 @@ native_label: Uxmal
 > The buildings take advantage of the terrain to gain height and acquire important volumes, including the Pyramid of the Magician, with five levels, and the Governor's Palace, which covers an area of more than 1,200 m2 (12,917 sq ft).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Uxmal) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula/Yucatán/Uxmal|Uxmal]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula/Yucatán/Uxmal.public|Uxmal.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula/Yucatán/Uxmal.internal|Uxmal.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula/Yucatán/Uxmal.protect|Uxmal.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula/Yucatán/Uxmal.private|Uxmal.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula/Yucatán/Uxmal.personal|Uxmal.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula/Yucatán/Uxmal.secret|Uxmal.secret]] 
 

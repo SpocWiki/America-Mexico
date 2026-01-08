@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../WikiData/WD~Mexico_City_Metropolitan_Cathedral,610961]]"
+dv_is_same_as: "[[../../../../../../../../WikiData/WD~Mexico_City_Metropolitan_Cathedral,610961]]"
+
 has_time_started: 1570-01-01 
 aliases:
   - Metropolitan Cathedral of the Assumption of the Most Blessed Virgin Mary into Heaven
@@ -56,7 +60,7 @@ Commons_gallery: Mexico City Metropolitan Cathedral
 
 # [[Mexico_City_Metropolitan_Cathedral]] 
 
-#is_/same_as :: [[WD~Mexico_City_Metropolitan_Cathedral,610961]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -71,4 +75,21 @@ Commons_gallery: Mexico City Metropolitan Cathedral
 > Over the centuries, the cathedral has suffered damage. A fire in 1967 damaged a significant part of the cathedral's interior. The restoration work that followed uncovered a number of important documents and artwork that had previously been hidden.  Although a solid foundation was built for the cathedral, the soft clay soil it is built on has been a threat to its structural integrity.  Dropping water tables and accelerated sinking caused the structure to be added to the World Monuments Fund list of the 100 Most Endangered Sites. Restoration working beginning in the 1990s stabilized the cathedral and it was removed from the endangered list in 2000.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mexico%20City%20Metropolitan%20Cathedral) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Mexico_City/boroughs~Mexico_City/Cuauhtémoc/Mexico_City_Metropolitan_Cathedral|Mexico_City_Metropolitan_Cathedral]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Mexico_City/boroughs~Mexico_City/Cuauhtémoc/Mexico_City_Metropolitan_Cathedral.public|Mexico_City_Metropolitan_Cathedral.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Mexico_City/boroughs~Mexico_City/Cuauhtémoc/Mexico_City_Metropolitan_Cathedral.internal|Mexico_City_Metropolitan_Cathedral.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Mexico_City/boroughs~Mexico_City/Cuauhtémoc/Mexico_City_Metropolitan_Cathedral.protect|Mexico_City_Metropolitan_Cathedral.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Mexico_City/boroughs~Mexico_City/Cuauhtémoc/Mexico_City_Metropolitan_Cathedral.private|Mexico_City_Metropolitan_Cathedral.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Mexico_City/boroughs~Mexico_City/Cuauhtémoc/Mexico_City_Metropolitan_Cathedral.personal|Mexico_City_Metropolitan_Cathedral.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Mexico_City/boroughs~Mexico_City/Cuauhtémoc/Mexico_City_Metropolitan_Cathedral.secret|Mexico_City_Metropolitan_Cathedral.secret]] 
 

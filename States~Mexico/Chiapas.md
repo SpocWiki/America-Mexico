@@ -40,17 +40,17 @@ markerFolder: ./Chiapas/
 
 ## Confidential Links & Embeds: 
 
-### [Chiapas](/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Chiapas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Chiapas|Chiapas]] 
 
-### [Chiapas.public](/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Chiapas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Chiapas.public|Chiapas.public]] 
 
-### [Chiapas.internal](/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Chiapas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Chiapas.internal|Chiapas.internal]] 
 
-### [Chiapas.protect](/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Chiapas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Chiapas.protect|Chiapas.protect]] 
 
-### [Chiapas.private](/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Chiapas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Chiapas.private|Chiapas.private]] 
 
-### [Chiapas.personal](/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Chiapas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Chiapas.personal|Chiapas.personal]] 
 
-### [Chiapas.secret](/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Chiapas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Chiapas.secret|Chiapas.secret]] 
 

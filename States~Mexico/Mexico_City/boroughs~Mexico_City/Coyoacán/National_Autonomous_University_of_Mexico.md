@@ -1,4 +1,10 @@
-﻿---
+---
+dv_"University", "UniversidadNacionalAutonomaDeMexico: 6nggb"
+dv_is_:
+  same_as: "[[../../../../../../../../WikiData/WD~National_Autonomous_University_of_Mexico,222738]]"
+dv_university-universidadnacionalautonomademexico: 6nggb"
+dv_is_same_as: "[[../../../../../../../../WikiData/WD~National_Autonomous_University_of_Mexico,222738]]"
+
 has_time_started: 1910-09-22 
 aliases:
   - National Autonomous University of Mexico
@@ -77,12 +83,12 @@ logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Escudo-UNAM-escal
 ISNI:
   - 0000000121590001
   - 0000000122189084
-Wolfram_Language_entity_code: Entity["University", "UniversidadNacionalAutonomaDeMexico::6nggb"]
+Wolfram_Language_entity_code: Entity"University", "UniversidadNacionalAutonomaDeMexico = `=this.dv_"University", "UniversidadNacionalAutonomaDeMexico`
 ---
 
 # [[National_Autonomous_University_of_Mexico]] 
 
-#is_/same_as :: [[WD~National_Autonomous_University_of_Mexico,222738]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -102,4 +108,21 @@ Wolfram_Language_entity_code: Entity["University", "UniversidadNacionalAutonomaD
 > UNAM was founded in its modern form, on 22 September 1910 by Justo Sierra as a secular alternative to its predecessor, the Royal and Pontifical University of Mexico (the first Western-style university in North America, founded in 1551).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/National%20Autonomous%20University%20of%20Mexico) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Mexico_City/boroughs~Mexico_City/Coyoacán/National_Autonomous_University_of_Mexico|National_Autonomous_University_of_Mexico]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Mexico_City/boroughs~Mexico_City/Coyoacán/National_Autonomous_University_of_Mexico.public|National_Autonomous_University_of_Mexico.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Mexico_City/boroughs~Mexico_City/Coyoacán/National_Autonomous_University_of_Mexico.internal|National_Autonomous_University_of_Mexico.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Mexico_City/boroughs~Mexico_City/Coyoacán/National_Autonomous_University_of_Mexico.protect|National_Autonomous_University_of_Mexico.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Mexico_City/boroughs~Mexico_City/Coyoacán/National_Autonomous_University_of_Mexico.private|National_Autonomous_University_of_Mexico.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Mexico_City/boroughs~Mexico_City/Coyoacán/National_Autonomous_University_of_Mexico.personal|National_Autonomous_University_of_Mexico.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Mexico_City/boroughs~Mexico_City/Coyoacán/National_Autonomous_University_of_Mexico.secret|National_Autonomous_University_of_Mexico.secret]] 
 

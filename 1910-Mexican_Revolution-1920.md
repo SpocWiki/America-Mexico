@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../WikiData/WD~Mexican_Revolution,214426]]"
+dv_is_same_as: "[[../../../../WikiData/WD~Mexican_Revolution,214426]]"
+
 has_time_started: 1910-11-20 
 has_time_stopped: 1920-05-21 
 aliases:
@@ -31,7 +35,7 @@ start_time: 1910-11-20T00:00:00Z
 
 # [[1910-Mexican_Revolution-1920]] 
 
-#is_/same_as :: [[WD~Mexican_Revolution,214426]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -71,4 +75,21 @@ start_time: 1910-11-20T00:00:00Z
 > Carranza consolidated power and a new constitution was promulgated in February 1917. The Mexican Constitution of 1917 established universal male suffrage, promoted secularism, workers' rights, economic nationalism, and land reform, and enhanced the power of the federal government. Carranza became President of Mexico in 1917, serving a term ending in 1920. He attempted to impose a civilian successor, prompting northern revolutionary generals to rebel. Carranza fled Mexico City and was killed. From 1920 to 1940, revolutionary generals held the office of president, each completing their terms (except from 1928-1934). This was a period when state power became more centralized, and revolutionary reform implemented, bringing the military under the civilian government's control. The Revolution was a decade-long civil war, with new political leadership that gained power and legitimacy through their participation in revolutionary conflicts. The political party those leaders founded in 1929, which would become the Institutional Revolutionary Party (PRI), ruled Mexico until the presidential election of 2000. When the Revolution ended is not well defined, and even the conservative winner of the 2000 election, Vicente Fox, contended his election was heir to the 1910 democratic election of Francisco Madero, thereby claiming the heritage and legitimacy of the Revolution.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mexican%20Revolution)  
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Mexico/1910-Mexican_Revolution-1920|1910-Mexican_Revolution-1920]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Mexico/1910-Mexican_Revolution-1920.public|1910-Mexican_Revolution-1920.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Mexico/1910-Mexican_Revolution-1920.internal|1910-Mexican_Revolution-1920.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Mexico/1910-Mexican_Revolution-1920.protect|1910-Mexican_Revolution-1920.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Mexico/1910-Mexican_Revolution-1920.private|1910-Mexican_Revolution-1920.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Mexico/1910-Mexican_Revolution-1920.personal|1910-Mexican_Revolution-1920.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Mexico/1910-Mexican_Revolution-1920.secret|1910-Mexican_Revolution-1920.secret]] 
 

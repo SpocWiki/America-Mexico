@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../WikiData/WD~Monterrey,81033]]"
+dv_is_same_as: "[[../../../../../../../WikiData/WD~Monterrey,81033]]"
+
 has_time_started: 1596-09-20 
 aliases:
 has_id_wikidata: Q81033
@@ -112,7 +116,7 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Monterrey%20WV%2
 
 # [[Monterrey]] 
 
-#is_/same_as :: [[WD~Monterrey,81033]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -149,4 +153,21 @@ markerFile: [[Monterrey]]
 > The uninterrupted settlement of Monterrey began with its founding by Diego de Montemayor in 1596. Following the Mexican War of Independence, the city grew into a key business hub. The city experienced great industrial growth following the establishment of the Monterrey Foundry in 1900. It holds prominent positions in industries such as steel, cement, glass, auto parts, and brewing. The city's economic success has been partly attributed to its proximity to the United States-Mexico border and strong economic ties with the United States.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Monterrey) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Nuevo_León/counties~Nuevo_León/Monterrey|Monterrey]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Nuevo_León/counties~Nuevo_León/Monterrey.public|Monterrey.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Nuevo_León/counties~Nuevo_León/Monterrey.internal|Monterrey.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Nuevo_León/counties~Nuevo_León/Monterrey.protect|Monterrey.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Nuevo_León/counties~Nuevo_León/Monterrey.private|Monterrey.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Nuevo_León/counties~Nuevo_León/Monterrey.personal|Monterrey.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Nuevo_León/counties~Nuevo_León/Monterrey.secret|Monterrey.secret]] 
 

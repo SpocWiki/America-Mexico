@@ -40,17 +40,17 @@ markerFolder: ./Guanajuato/
 
 ## Confidential Links & Embeds: 
 
-### [Guanajuato](/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Guanajuato.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Guanajuato|Guanajuato]] 
 
-### [Guanajuato.public](/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Guanajuato.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Guanajuato.public|Guanajuato.public]] 
 
-### [Guanajuato.internal](/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Guanajuato.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Guanajuato.internal|Guanajuato.internal]] 
 
-### [Guanajuato.protect](/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Guanajuato.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Guanajuato.protect|Guanajuato.protect]] 
 
-### [Guanajuato.private](/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Guanajuato.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Guanajuato.private|Guanajuato.private]] 
 
-### [Guanajuato.personal](/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Guanajuato.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Guanajuato.personal|Guanajuato.personal]] 
 
-### [Guanajuato.secret](/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Guanajuato.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Guanajuato.secret|Guanajuato.secret]] 
 

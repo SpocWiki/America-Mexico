@@ -4,21 +4,24 @@ aliases:
   - Olmec
   - Olmeken
 has_id_wikidata: Q135364
-has_works_in_the_collection: '[[_Standards/WikiData/WD~Art_Institute_of_Chicago,239303]]'
-described_by_source: '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-locations: '[[_Standards/WikiData/WD~Olmec_heartland,3321023]]'
+has_works_in_the_collection: "[[_Standards/WikiData/WD~Art_Institute_of_Chicago,239303]]"
+described_by_source: "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+locations: "[[_Standards/WikiData/WD~Olmec_heartland,3321023]]"
 start_time: -1399-01-01T00:00:00Z
 instance_of:
-  - '[[_Standards/WikiData/WD~civilization,8432]]'
-  - '[[_Standards/WikiData/WD~culture,11042]]'
-  - '[[_Standards/WikiData/WD~ethnic_group,41710]]'
+  - "[[_Standards/WikiData/WD~civilization,8432]]"
+  - "[[_Standards/WikiData/WD~culture,11042]]"
+  - "[[_Standards/WikiData/WD~ethnic_group,41710]]"
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Olmec%20Heartland%20Overview%204.svg
 Commons_category: Olmec
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~Olmecs,135364|WD~Olmecs,135364]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~Olmecs,135364|WD~Olmecs,135364]]"
 ---
 
 # [[Olmecs]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Olmecs,135364|WD~Olmecs,135364]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -35,4 +38,21 @@ Commons_category: Olmec
 > Among other "firsts", the Olmec appeared to practice ritual bloodletting and played the Mesoamerican ballgame, hallmarks of nearly all subsequent Mesoamerican societies. The aspect of the Olmecs most familiar now is their artwork, particularly the colossal heads. The Olmec civilization was first defined through artifacts which collectors purchased on the pre-Columbian art market in the late 19th and early 20th centuries. Olmec artworks are considered among ancient America's most striking.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Olmecs) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Mexico/History_of_Mexico/Olmecs|Olmecs]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Mexico/History_of_Mexico/Olmecs.public|Olmecs.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Mexico/History_of_Mexico/Olmecs.internal|Olmecs.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Mexico/History_of_Mexico/Olmecs.protect|Olmecs.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Mexico/History_of_Mexico/Olmecs.private|Olmecs.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Mexico/History_of_Mexico/Olmecs.personal|Olmecs.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Mexico/History_of_Mexico/Olmecs.secret|Olmecs.secret]] 
 

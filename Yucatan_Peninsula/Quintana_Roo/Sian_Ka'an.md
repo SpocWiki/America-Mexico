@@ -9,27 +9,30 @@ location:
   - 19.383333333
   - -87.791666666
 coordinate_location: Point(-87.791666666 19.383333333)
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Quintana_Roo,80245]]'
-instance_of: '[[_Standards/WikiData/WD~biosphere_reserve,158454]]'
-locations: '[[_Standards/WikiData/WD~Tulum_Municipality,1709171]]'
-member_of: '[[_Standards/WikiData/WD~Man_and_the_Biosphere_Programme,14018439]]'
-IUCN_protected_areas_category: '[[_Standards/WikiData/WD~IUCN_category_VI_Protected_Area_with_sustainable_use_of_natural_resources,14545652]]'
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Quintana_Roo,80245]]"
+instance_of: "[[_Standards/WikiData/WD~biosphere_reserve,158454]]"
+locations: "[[_Standards/WikiData/WD~Tulum_Municipality,1709171]]"
+member_of: "[[_Standards/WikiData/WD~Man_and_the_Biosphere_Programme,14018439]]"
+IUCN_protected_areas_category: "[[_Standards/WikiData/WD~IUCN_category_VI_Protected_Area_with_sustainable_use_of_natural_resources,14545652]]"
 heritage_designation:
-  - '[[_Standards/WikiData/WD~Ramsar_site,19683138]]'
-  - '[[_Standards/WikiData/WD~World_Heritage_Site,9259]]'
-World_Heritage_criteria: '[[_Standards/WikiData/WD~(vii),23038981]]'
-country: '[[_Standards/WikiData/WD~Mexico,96]]'
+  - "[[_Standards/WikiData/WD~Ramsar_site,19683138]]"
+  - "[[_Standards/WikiData/WD~World_Heritage_Site,9259]]"
+World_Heritage_criteria: "[[_Standards/WikiData/WD~(vii),23038981]]"
+country: "[[_Standards/WikiData/WD~Mexico,96]]"
 area: 528000
 UNESCO_Biosphere_Reserve_URL: http://www.unesco.org/new/en/natural-sciences/environment/ecological-sciences/biosphere-reserves/latin-america-and-the-caribbean/mexico/sian-kaan/
 Commons_category: Sian Ka´an
 image: http://commons.wikimedia.org/wiki/Special:FilePath/M%C3%A9xico%20-%20Sian%20Ka%27an%2C%20Boat%20Tour.JPG
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Sian%20Kaan%20Natp%20Pelican.jpg
 native_label: Sian Ka'an
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Sian_Ka'an,559789|WD~Sian_Ka'an,559789]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Sian_Ka'an,559789|WD~Sian_Ka'an,559789]]"
 ---
 
 # [[Sian_Ka'an]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Sian_Ka'an,559789|WD~Sian_Ka'an,559789]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -48,4 +51,21 @@ native_label: Sian Ka'an
 > Within the Amigos de Sian Kaʼan project objectives are the identification, protection, and management of additional areas with high biodiversity value as well as those critical for maintenance of the life cycles of endangered, threatened, and migratory species in the Riviera Maya, providing environmental education through books, journals, and pamphlets, giving technical assistance, and training to Mayan communities working with ecotourism.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sian%20Ka%CA%BCan%20Biosphere%20Reserve) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula/Quintana_Roo/Sian_Ka'an|Sian_Ka'an]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula/Quintana_Roo/Sian_Ka'an.public|Sian_Ka'an.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula/Quintana_Roo/Sian_Ka'an.internal|Sian_Ka'an.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula/Quintana_Roo/Sian_Ka'an.protect|Sian_Ka'an.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula/Quintana_Roo/Sian_Ka'an.private|Sian_Ka'an.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula/Quintana_Roo/Sian_Ka'an.personal|Sian_Ka'an.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula/Quintana_Roo/Sian_Ka'an.secret|Sian_Ka'an.secret]] 
 

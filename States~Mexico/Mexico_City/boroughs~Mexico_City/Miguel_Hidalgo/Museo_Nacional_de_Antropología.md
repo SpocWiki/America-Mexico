@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../WikiData/WD~National_Museum_of_Anthropology,524249]]"
+dv_is_same_as: "[[../../../../../../../../WikiData/WD~National_Museum_of_Anthropology,524249]]"
+
 has_time_started: 1964-01-01 
 aliases:
   - National Museum of Anthropology
@@ -61,7 +65,7 @@ title: Museo Nacional de Antropología (MNA)
 
 # [[Museo_Nacional_de_Antropología]] 
 
-#is_/same_as :: [[WD~National_Museum_of_Anthropology,524249]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -93,4 +97,21 @@ title: Museo Nacional de Antropología (MNA)
 > transforms the Museum of Anthropology into a temple."
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/National%20Museum%20of%20Anthropology%20(Mexico)) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Mexico_City/boroughs~Mexico_City/Miguel_Hidalgo/Museo_Nacional_de_Antropología|Museo_Nacional_de_Antropología]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Mexico_City/boroughs~Mexico_City/Miguel_Hidalgo/Museo_Nacional_de_Antropología.public|Museo_Nacional_de_Antropología.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Mexico_City/boroughs~Mexico_City/Miguel_Hidalgo/Museo_Nacional_de_Antropología.internal|Museo_Nacional_de_Antropología.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Mexico_City/boroughs~Mexico_City/Miguel_Hidalgo/Museo_Nacional_de_Antropología.protect|Museo_Nacional_de_Antropología.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Mexico_City/boroughs~Mexico_City/Miguel_Hidalgo/Museo_Nacional_de_Antropología.private|Museo_Nacional_de_Antropología.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Mexico_City/boroughs~Mexico_City/Miguel_Hidalgo/Museo_Nacional_de_Antropología.personal|Museo_Nacional_de_Antropología.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Mexico_City/boroughs~Mexico_City/Miguel_Hidalgo/Museo_Nacional_de_Antropología.secret|Museo_Nacional_de_Antropología.secret]] 
 

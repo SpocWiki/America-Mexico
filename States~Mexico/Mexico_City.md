@@ -1,4 +1,12 @@
-﻿---
+---
+dv_is_a_: "[[../../../../Geography/Place]]"
+dv_has_place_longitude: -99.15
+dv_has_place_latitude: 19.4
+dv_name: Mexico City
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~Mexico_City,1489|WD~Mexico_City,1489]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~Mexico_City,1489|WD~Mexico_City,1489]]"
+
 has_time_started: 1521-01-01 
 aliases:
   - Mexico_City
@@ -211,17 +219,17 @@ WOEID: 116545
 # [[Mexico_City]] 
 
  #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-99.15] 
-[has_place_latitude::19.4] 
-[name::Mexico City] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[../../Mexico]]  
 [StateId::] 
 [Population::] 
 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Mexico_City,1489|WD~Mexico_City,1489]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -256,17 +264,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mexico_City](/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Distrito_Federal/City/Mexico_City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Mexico_City|Mexico_City]] 
 
-### [Mexico_City.public](/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Distrito_Federal/City/Mexico_City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Mexico_City.public|Mexico_City.public]] 
 
-### [Mexico_City.internal](/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Distrito_Federal/City/Mexico_City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Mexico_City.internal|Mexico_City.internal]] 
 
-### [Mexico_City.protect](/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Distrito_Federal/City/Mexico_City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Mexico_City.protect|Mexico_City.protect]] 
 
-### [Mexico_City.private](/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Distrito_Federal/City/Mexico_City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Mexico_City.private|Mexico_City.private]] 
 
-### [Mexico_City.personal](/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Distrito_Federal/City/Mexico_City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Mexico_City.personal|Mexico_City.personal]] 
 
-### [Mexico_City.secret](/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Distrito_Federal/City/Mexico_City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Mexico_City.secret|Mexico_City.secret]] 
 

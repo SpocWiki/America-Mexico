@@ -46,17 +46,17 @@ defaultZoom: 7
 
 ## Confidential Links & Embeds: 
 
-### [Quintana_Roo](/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Quintana_Roo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula/Quintana_Roo|Quintana_Roo]] 
 
-### [Quintana_Roo.public](/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Quintana_Roo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula/Quintana_Roo.public|Quintana_Roo.public]] 
 
-### [Quintana_Roo.internal](/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Quintana_Roo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula/Quintana_Roo.internal|Quintana_Roo.internal]] 
 
-### [Quintana_Roo.protect](/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Quintana_Roo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula/Quintana_Roo.protect|Quintana_Roo.protect]] 
 
-### [Quintana_Roo.private](/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Quintana_Roo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula/Quintana_Roo.private|Quintana_Roo.private]] 
 
-### [Quintana_Roo.personal](/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Quintana_Roo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula/Quintana_Roo.personal|Quintana_Roo.personal]] 
 
-### [Quintana_Roo.secret](/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Quintana_Roo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula/Quintana_Roo.secret|Quintana_Roo.secret]] 
 

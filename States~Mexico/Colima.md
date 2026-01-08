@@ -40,17 +40,17 @@ markerFolder: ./Colima/
 
 ## Confidential Links & Embeds: 
 
-### [Colima](/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Colima.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Colima|Colima]] 
 
-### [Colima.public](/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Colima.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Colima.public|Colima.public]] 
 
-### [Colima.internal](/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Colima.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Colima.internal|Colima.internal]] 
 
-### [Colima.protect](/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Colima.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Colima.protect|Colima.protect]] 
 
-### [Colima.private](/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Colima.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Colima.private|Colima.private]] 
 
-### [Colima.personal](/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Colima.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Colima.personal|Colima.personal]] 
 
-### [Colima.secret](/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Colima.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Colima.secret|Colima.secret]] 
 

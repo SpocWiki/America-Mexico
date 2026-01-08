@@ -41,17 +41,17 @@ markerFolder: ./Baja_California_Sur/
 
 ## Confidential Links & Embeds: 
 
-### [Baja_California_Sur](/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Baja_California_Sur.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Baja_California_Sur|Baja_California_Sur]] 
 
-### [Baja_California_Sur.public](/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Baja_California_Sur.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Baja_California_Sur.public|Baja_California_Sur.public]] 
 
-### [Baja_California_Sur.internal](/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Baja_California_Sur.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Baja_California_Sur.internal|Baja_California_Sur.internal]] 
 
-### [Baja_California_Sur.protect](/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Baja_California_Sur.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Baja_California_Sur.protect|Baja_California_Sur.protect]] 
 
-### [Baja_California_Sur.private](/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Baja_California_Sur.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Baja_California_Sur.private|Baja_California_Sur.private]] 
 
-### [Baja_California_Sur.personal](/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Baja_California_Sur.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Baja_California_Sur.personal|Baja_California_Sur.personal]] 
 
-### [Baja_California_Sur.secret](/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Baja_California_Sur.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Baja_California_Sur.secret|Baja_California_Sur.secret]] 
 

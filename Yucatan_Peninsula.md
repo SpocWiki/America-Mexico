@@ -1,7 +1,12 @@
+---
+dv_is_:
+  same_as: "[[../../../../WikiData/WD~Yucatan_Peninsula,130978|WD~Yucatan_Peninsula,130978]]"
+dv_is_same_as: "[[../../../../WikiData/WD~Yucatan_Peninsula,130978|WD~Yucatan_Peninsula,130978]]"
+---
 
 # [[Yucatan_Peninsula]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Yucatan_Peninsula,130978|WD~Yucatan_Peninsula,130978]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -22,4 +27,21 @@
 > The peninsula lies east of the Isthmus of Tehuantepec, the narrowest point in Mexico separating the Atlantic Ocean, including the Gulf of Mexico and Caribbean Sea, from the Pacific Ocean. Some consider the isthmus to be the geographic boundary between Central America and the rest of North America, placing the peninsula in Central America. Politically, all of Mexico, including the Yucatán, is generally considered part of North America, while Guatemala and Belize are considered part of Central America.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Yucat%C3%A1n%20Peninsula) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula|Yucatan_Peninsula]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula.public|Yucatan_Peninsula.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula.internal|Yucatan_Peninsula.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula.protect|Yucatan_Peninsula.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula.private|Yucatan_Peninsula.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula.personal|Yucatan_Peninsula.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula.secret|Yucatan_Peninsula.secret]] 
 

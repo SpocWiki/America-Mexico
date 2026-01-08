@@ -40,17 +40,17 @@ markerFolder: ./Durango/
 
 ## Confidential Links & Embeds: 
 
-### [Durango](/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Durango.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Durango|Durango]] 
 
-### [Durango.public](/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Durango.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Durango.public|Durango.public]] 
 
-### [Durango.internal](/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Durango.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Durango.internal|Durango.internal]] 
 
-### [Durango.protect](/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Durango.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Durango.protect|Durango.protect]] 
 
-### [Durango.private](/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Durango.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Durango.private|Durango.private]] 
 
-### [Durango.personal](/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Durango.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Durango.personal|Durango.personal]] 
 
-### [Durango.secret](/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Durango.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Durango.secret|Durango.secret]] 
 

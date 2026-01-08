@@ -40,17 +40,17 @@ markerFolder: ./Campeche/
 
 ## Confidential Links & Embeds: 
 
-### [Campeche](/_Standards/Earth/Continent/America~Central/Mexico/States~Mexico/Campeche.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula/Campeche|Campeche]] 
 
-### [Campeche.public](/_public/Earth/Continent/America~Central/Mexico/States~Mexico/Campeche.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula/Campeche.public|Campeche.public]] 
 
-### [Campeche.internal](/_internal/Earth/Continent/America~Central/Mexico/States~Mexico/Campeche.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula/Campeche.internal|Campeche.internal]] 
 
-### [Campeche.protect](/_protect/Earth/Continent/America~Central/Mexico/States~Mexico/Campeche.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula/Campeche.protect|Campeche.protect]] 
 
-### [Campeche.private](/_private/Earth/Continent/America~Central/Mexico/States~Mexico/Campeche.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula/Campeche.private|Campeche.private]] 
 
-### [Campeche.personal](/_personal/Earth/Continent/America~Central/Mexico/States~Mexico/Campeche.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula/Campeche.personal|Campeche.personal]] 
 
-### [Campeche.secret](/_secret/Earth/Continent/America~Central/Mexico/States~Mexico/Campeche.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Mexico/Yucatan_Peninsula/Campeche.secret|Campeche.secret]] 
 
