@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../Geography/Place]]"
 dv_has_place_longitude: -99.15
 dv_has_place_latitude: 19.4
-dv_has_name_: Mexico City
+dv_has_name: Mexico City
 dv_is_:
   same_as: "[[../../../../../WikiData/WD~Mexico_City,1489|WD~Mexico_City,1489]]"
 dv_is_same_as: "[[../../../../../WikiData/WD~Mexico_City,1489|WD~Mexico_City,1489]]"
@@ -222,7 +222,7 @@ WOEID: 116545
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: [[../../Mexico]]  
 [StateId::] 
