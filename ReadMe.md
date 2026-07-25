@@ -367,7 +367,7 @@ history_of_topic: '[[/_Standards/WikiData/WD~history_of_Mexico,212763|WD~history
 highest_point: '[[/_Standards/WikiData/WD~Citlaltepetl,238147|WD~Citlaltepetl,238147]]'
 described_by_source:
 - '[[/_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[/_Standards/WikiData/WD~Draft_History_of_Qing,1374339|WD~Draft_History_of_Qing,1374339]]'
 - '[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
@@ -1030,7 +1030,7 @@ dv_ISO2: MX
 dv_ISO3: MEX
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Mexico,96|WD~Mexico,96]]'
+  - '[[../../../../WikiData/WD~Mexico,96|WD~Mexico,96]]'
   - '[[/_Standards/Earth/Continent/America~Central/Mexico|Mexico]]'
   - '[[/_public/Earth/Continent/America~Central/Mexico.public|Mexico.public]]'
   - '[[/_internal/Earth/Continent/America~Central/Mexico.internal|Mexico.internal]]'
@@ -1412,7 +1412,7 @@ dv_has_place_longitude: -99.15
 dv_has_place_latitude: 19.4
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../WikiData/WD~Mexico,96|WD~Mexico,96]]'
+- '[[../../../../WikiData/WD~Mexico,96|WD~Mexico,96]]'
 - '[[/_Standards/Earth/Continent/America~Central/Mexico|Mexico]]'
 - '[[/_public/Earth/Continent/America~Central/Mexico.public|Mexico.public]]'
 - '[[/_internal/Earth/Continent/America~Central/Mexico.internal|Mexico.internal]]'
@@ -1494,12 +1494,12 @@ ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../WikiData/WD~Mexico,96|WD~Mexico,96]] 
+#is_/same_as :: [[../../../../WikiData/WD~Mexico,96|WD~Mexico,96]] 
 
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Mexico/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -1518,7 +1518,7 @@ markerFile: [[Mexico]]
 
 ```leaflet
 id: Mexico_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1542,13 +1542,13 @@ Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
-Capital :: [[Mexico/States~Mexico/Mexico_City|Mexico_City]]  
+Capital :: [[States~Mexico/Mexico_City|Mexico_City]]  
 
-![[Mexico/Coat_of_arms_of_Mexico.svg|350]]
+![[Coat_of_arms_of_Mexico.svg|350]]
 
-![[../../../../_public/xLarge.public/National-Anthem/Anthem-Mexico.mp3|Anthem-Mexico.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Mexico.mp3|Anthem-Mexico.mp3]]
 
-![[Mexico/Flag_of_Mexico.svg|350]]
+![[Flag_of_Mexico.svg|350]]
 
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
